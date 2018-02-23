@@ -1,8 +1,8 @@
 ---
-title: DD test tutorial0223 3 components
-description: example DD dtest tutorial0223 3 components
-tags: [products>sap-hana, tutorial>beginner]
-primary_tag: tutorial:product/sapHana
+title: DD test tutorial0223 
+description: example DD dtest tutorial0223 
+tags: [products>sap-hana, products>sap-hana-cloud-platform, topic>big-data, topic>internet-of-things, tutorial>Advanced ]
+primary_tag: tutorial:product/mobile
 ---
 
 ***Text*** (including bold, italic, etc)
