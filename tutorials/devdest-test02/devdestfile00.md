@@ -1,6 +1,6 @@
 title: DD test tutorial0223
 description: DD dtest tutorial0223
-tags: Project
+tags: [tutorial: Experience/Beginner]
 Using this [tool] 
 ---------------
 
