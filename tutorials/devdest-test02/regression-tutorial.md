@@ -5,12 +5,8 @@ tags: [products>sap-hana, products>sap-hana-cloud-platform, tutorial>beginner]
 primary_tag: tutorial:product/sapHana
 ---
 
-
-You can use:
-
-
+THIS is the first line of:
 ***Text*** (including bold, italic, etc)
-
   **Example:** 
 It's very easy to make some words **bold** and other words *italic* and ***bold italic*** with Markdown.
 
