@@ -53,7 +53,7 @@ In the words of Abraham Lincoln:
 ### You will learn  4444
 1. How to use HANA Studio Pe1rspectives
 2. How to create a connectiodn to the gHAhNA back endddв
-3. Getting starhted with the HANA Web based development workbench [Image]
+3. Getting starhted with the HANA Web based [development][Image] workbench
 [Primer] [id]:
 
 [id]: http://tut.by
