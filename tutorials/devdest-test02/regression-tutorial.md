@@ -1,6 +1,6 @@
 ---
-title: Resgression Tutorial with all components
-description: example 2602 3d version
+title: Resgression Tutorial with some components
+description: example 2602 4 version
 tags: [products>sap-hana, products>sap-hana-cloud-platform, tutorial>beginner]
 primary_tag: tutorial:product/sapHana
 ---
@@ -54,26 +54,10 @@ In the words of Abraham Lincoln:
 
 ***Links***
 
-### You will learn  
+### You will learn  4444
 1. How to use HANA Studio Pe1rspectives
 2. How to create a connectiodn to the gHAhNA back endddв
 3. Getting starhted with the HANA Web based development workbench
-
-[ACCORDION-BEGIN [STEP 1](Answer - 3)]
-[VALIDATE_1]
-[ACCORDION-END]      
-[ACCORDION-BEGIN [STEP 2](Answer - 4)]
-[VALIDATE_2]
-[ACCORDION-END]
-[ACCORDION-BEGIN [STEP 3](Answer - 8)]
-[VALIDATE_3]
-[ACCORDION-END]
-[ACCORDION-BEGIN [STEP 4](Done button)]
-
-[DONE]
-[ACCORDION-END]
-
-  **Example:** 
 [Primer] [id]:
 [id]: http://tut.by
 
@@ -104,27 +88,6 @@ In the words of Abraham Lincoln:
 
 &nbsp;
 
-
-***Task Lists*** (Please note, this requires empty line before task list):
-
-  **Example:** 
-  
-- [x] @mentions, #refs, [links](), **formatting**, and ~~tags~~ supported
-- [x] list syntax required (any unordered or ordered list supported)
-- [x] this is a complete item
-- [ ] this is an incomplete item
-
-***Tables:***
-
-  **Example:** 
-
-First Header | Second Header | Third Header | Fourth Header | Fifth Header | Sixth Header
------------- | ------------- | ------------ | ------------- | -------------| -------------
-Content from cell 1 | Content from cell 2 | Content from cell 3 | Content from cell 4 | Content from cell 5 | Content from cell 6
-Content in the first column | Content in the second column | Content in the third column | Content in the fourth column | Content in the fifth column | Content in the sixth column
-
-
-and
 
 | Left-Aligned  | Center Aligned  | Right Aligned |
 | :------------ |:---------------:| -----:|
