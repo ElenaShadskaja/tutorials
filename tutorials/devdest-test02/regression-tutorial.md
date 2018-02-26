@@ -1,6 +1,6 @@
 ---
 title: Resgression Tutorial with all components
-description: example
+description: example 2602
 tags: [products>sap-hana, products>sap-hana-cloud-platform, tutorial>beginner]
 primary_tag: tutorial:product/sapHana
 ---
