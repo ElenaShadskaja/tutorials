@@ -25,8 +25,6 @@ You can use ~~strikethrough~~ font
 
 ***Lists***
 
-## Details
-eeeeeeeeeeeeeeeeeeeeeeeeee
 
 
   **Example:** 
