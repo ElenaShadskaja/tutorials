@@ -347,4 +347,4 @@ There are advances being made in science and technology everyday, and a good exa
 [VALIDATE_8]
 [ACCORDION-END]
 
-![Image](https://octodex.github.com/images/yaktocat.png)
+![Image](https://github.com/ElenaShadskaja/tutorials/blob/master/tutorials/devdest-test02/2014-300.png)
