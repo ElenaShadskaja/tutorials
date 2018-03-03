@@ -1,20 +1,23 @@
+----
+title: Resgression Tutorial with some components step1
+description: example 0303 
+tags: [products>sap-hana, products>abap-development, tutorial>beginner]
+primary_tag: tutorial:product/sapHana
 ---
-title: DD test tutorial
-description: DD dtest tutorial0303
-tags: [products>sap-hana, tutorial>beginner, tutorial:product/mobile]
-primary_tag: tutorial:product/mobile
----
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin nulla velit, semper quis ultricies sit amet, egestas quis lacus. In odio purus, sagittis et tincidunt placerat, hendrerit non nulla. Donec ultrices elit quis risus gravida aliquam. Integer varius justo eu tellus egestas mattis.
+THIS is the first line of:
+***Text*** (including bold, italic, etc)
 
-[ACCORDION-BEGIN [STEP 01](Accordion component which contains Task Lists in Body)] Task Lists* (Please note, this requires empty line before task list):
 
-Example:
+[ACCORDION-BEGIN [STEP 1](Accordion component which contains Text in Body)]
+We are currently in open beta for the new SAP community. Here's your opportunity to test out the new features and give us your feedback. Not in the mood to try out the new community just yet? Then continue on to the SAP Community Network (SCN) where you currently collaborate with other members.
 
-[EMBEDDED-VIDEO ]
+[EMBEDDED-VIDEO [](/content/dam/site/sapcom/multimedia/2017/12/746085f5-e27c-0010-82c7-eda71af511fa.mp4)]
 
- @mentions, #refs, links, formatting, and tags supported
- list syntax required (any unordered or ordered list supported)
- this is a complete item
- this is an incomplete item
-[DONE] [ACCORDION-END]
+We are currently in open beta for the new SAP community. Here's your opportunity to test out the new features and give us your feedback. Not in the mood to try out the new community just yet? Then continue on to the SAP Community Network (SCN) where you currently collaborate with other members.
+
+[DONE]
+[ACCORDION-END]
+
+
+Lorem ipsum dolor si amet, consectetur adipiscing elit. Proin nulla velit, semper quis ultricies sit amet, egestas quis lacus. In odio purus, sagittis et tincidunt placerat, hendrerit non nulla. Donec ultrices elit quis risus gravida aliquam. Integer varius justo eu tellus egestas mattis.
