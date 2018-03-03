@@ -1,7 +1,7 @@
 ---
 title: DD test tutorial
 description: DD dtest tutorial0303
-tags: [products>sap-hana, products>sap-hana-cloud-platform, tutorial>beginner]
+tags: [products>sap-hana, products>sap-hana-SAP HANA, express edition, tutorial>beginner,tutorial:product/mobile]
 primary_tag: tutorial:product/sapHana
 ---
 
