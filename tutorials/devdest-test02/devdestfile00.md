@@ -1,6 +1,6 @@
 ---
-title: Resgression Tutorial with some components
-description: example 2602 4 version
+title: Resgression Tutorial with some components step5-7
+description: example 0303 
 tags: [products>sap-hana, products>abap-development, tutorial>beginner]
 primary_tag: tutorial:product/sapHana
 ---
