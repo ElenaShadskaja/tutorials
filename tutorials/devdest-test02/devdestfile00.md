@@ -1,7 +1,7 @@
 ---
 title: DD test tutorial0223 
 description: example DD dtest tutorial0223 
-tags: [products>sap-hana, products>sap-hana-cloud-platform, topic>big-data, topic>internet-of-things, tutorial>Advanced ]
+tags: [products>sap-hana, products>sap-hana-cloud-platform, topic>big-data, topic>internet-of-things, tutorial>Advanced ,tutorial:product/mobile]
 primary_tag: tutorial:product/mobile
 ---
 
