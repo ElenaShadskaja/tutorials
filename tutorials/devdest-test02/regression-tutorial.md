@@ -1,12 +1,19 @@
 ---
-title: Resgression Tutorial with some components
-description: example 2602 4 version
+title: Resgression Tutorial with all components
+description: example
 tags: [products>sap-hana, products>sap-hana-cloud-platform, tutorial>beginner]
 primary_tag: tutorial:product/sapHana
 ---
 
-THIS is the first line of:
+
+You can use:
+
+***Image by link***
+![Image](https://octodex.github.com/images/yaktocat.png)
+
+
 ***Text*** (including bold, italic, etc)
+
   **Example:** 
 It's very easy to make some words **bold** and other words *italic* and ***bold italic*** with Markdown.
 
@@ -20,8 +27,6 @@ You can use ~~strikethrough~~ font
 ###### This is an h6 header
 
 ***Lists***
-
-
 
   **Example:** 
   
@@ -50,12 +55,8 @@ In the words of Abraham Lincoln:
 
 ***Links***
 
-### You will learn  4444
-1. How to use HANA Studio Pe1rspectives
-2. How to create a connectiodn to the gHAhNA back endddв
-3. Getting starhted with the HANA Web based [development][Image] workbench
+  **Example:** 
 [Primer] [id]:
-
 [id]: http://tut.by
 
 <http://tut.by>
@@ -85,6 +86,27 @@ In the words of Abraham Lincoln:
 
 &nbsp;
 
+
+***Task Lists*** (Please note, this requires empty line before task list):
+
+  **Example:** 
+  
+- [x] @mentions, #refs, [links](), **formatting**, and ~~tags~~ supported
+- [x] list syntax required (any unordered or ordered list supported)
+- [x] this is a complete item
+- [ ] this is an incomplete item
+
+***Tables:***
+
+  **Example:** 
+
+First Header | Second Header | Third Header | Fourth Header | Fifth Header | Sixth Header
+------------ | ------------- | ------------ | ------------- | -------------| -------------
+Content from cell 1 | Content from cell 2 | Content from cell 3 | Content from cell 4 | Content from cell 5 | Content from cell 6
+Content in the first column | Content in the second column | Content in the third column | Content in the fourth column | Content in the fifth column | Content in the sixth column
+
+
+and
 
 | Left-Aligned  | Center Aligned  | Right Aligned |
 | :------------ |:---------------:| -----:|
@@ -300,8 +322,6 @@ In the words of Abraham Lincoln:
 [ACCORDION-END]
 
 
-
-
 [ACCORDION-BEGIN [STEP 3](Regex begins with)] 
 [VALIDATE_3]
 [ACCORDION-END]
@@ -348,4 +368,4 @@ There are advances being made in science and technology everyday, and a good exa
 [VALIDATE_8]
 [ACCORDION-END]
 
-![Image](https://github.com/ElenaShadskaja/tutorials/blob/master/tutorials/devdest-test02/2014-300.png)
+![Image](https://octodex.github.com/images/yaktocat.png)
