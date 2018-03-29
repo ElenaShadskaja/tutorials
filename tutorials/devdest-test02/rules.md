@@ -1,5 +1,5 @@
 ---
-title: cheking all validation rules
+title: cheking specific validation rules
 description: 9 types of rules 
 tags: [tutorial:product/sapHana]
 primary_tag: tutorial:product/mobile
@@ -32,10 +32,13 @@ Now that you have set up a Dqqqqestination in the HANA Cloud Platform (HCP) cock
 [ACCORDION-END]
 
  
+[ACCORDION-BEGIN [STEP 2x]( 1)] 
+[VALIDATE x]
+[ACCORDION-END]
+
 [ACCORDION-BEGIN [STEP 2]( Regex Sub-string)] 
 [VALIDATE_2]
 [ACCORDION-END]
-
 
 [ACCORDION-BEGIN [STEP 3](Regex begins with)] 
 [VALIDATE_3]
