@@ -1,6 +1,6 @@
 ---
 title: single answers tests validation form 
-description:autotests description
+description:tests description
 primary_tag: tutorial>HANA
 tags: [tutorial:product/sapHana, tutorial:product/hana_studio]
 qrcode: true
