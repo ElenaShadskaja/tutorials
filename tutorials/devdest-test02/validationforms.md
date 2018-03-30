@@ -12,7 +12,7 @@ qrcode: true
  
  [ACCORDION-END]
  
- [ACCORDION-BEGIN [STEP 2]( Regex Sub-string)] 
+ [ACCORDION-BEGIN [STEP 2]( Extra match rule 1 digit)] 
 [VALIDATE_2]
 
  [ACCORDION-END]
@@ -87,6 +87,7 @@ qrcode: true
  
 [ACCORDION-END] 
 
+
 [ACCORDION-BEGIN [STEP 101]( Extra match rules+)]
 
 [VALIDATE_101] 
@@ -99,6 +100,7 @@ qrcode: true
 [VALIDATE_102] 
 
 [ACCORDION-END]
+
 
 [ACCORDION-BEGIN [STEP 103]( Extra match rules+)] 
 
