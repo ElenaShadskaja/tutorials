@@ -84,7 +84,7 @@ qrcode: true
 
 [ACCORDION-BEGIN [STEP 13](single-choice #3)] 
   
- [VALIDATE_12] 
+ [VALIDATE_13] 
  
 [ACCORDION-END]
 
