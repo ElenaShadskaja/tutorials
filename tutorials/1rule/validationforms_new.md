@@ -6,6 +6,7 @@ tags: [tutorial:product/sapHana, tutorial:product/hana_studio]
 qrcode: true
 ---
 
+
 [ACCORDION-BEGIN [STEP 1]( Extra match rule)] 
    
 [VALIDATE_1]
