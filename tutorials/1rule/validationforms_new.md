@@ -134,4 +134,4 @@ qrcode: true
   
  [VALIDATE_21] 
  
-[ACCORDION-END]
+[ACCOrDION-END]
