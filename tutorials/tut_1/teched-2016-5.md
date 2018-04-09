@@ -5,8 +5,8 @@ tags: [tutorial:product/mobile]
 primary_tag: tutorial:product/sapHana
 ---
 
->### New tutor
-
+>### New t1.45
+How to create a connectiodn to the gHAhNA back endddHow to create a connectiodn to the gHAhNA back endddHow to create a connectiodn to the gHAhNA back endddHow to create a connectiodn to the gHAhNA back enddd
 ## Details
 ### You will learn (updated in 1.45)  
 1. How to use HANA Studio Pe1rspectives
