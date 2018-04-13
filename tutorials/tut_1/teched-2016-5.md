@@ -1,5 +1,5 @@
 ---
-title: 1.45 Test with accordion teched 2016 5
+title: 1.45 DD Test with accordion 
 description: 1.45 updated Create a Destination to allow HANA Cloud Platform to nbvread/write data
 tags: [tutorial:product/mobile]
 primary_tag: tutorial:product/sapHana
@@ -18,7 +18,7 @@ How to create a connectiodn to the gHAhNA back endddHow to create a connectiodn 
 
   **Example:** 
   
-  [EMBEDDED-VIDEO [](/content/dam/site/sapcom/multimedia/2016/08/8adbcaf9-807c-0010-82c7-eda71af511fa.mp4)]  
+  [EMBEDDED-VIDEO [](https://youtu.be/G6X8mkWHT_k)]  
 - [x] @mentions, #refs, [links](), **formatting**, and ~~tags~~ supported
 - [x] list syntax required (any unordered or ordered list supported)
 - [x] this is a complete item
