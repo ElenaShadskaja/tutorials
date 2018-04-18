@@ -7,6 +7,9 @@ primary_tag: tutorial:product/sapHana
 
 
 You can use:
+***You can use the VIDEO:***
+
+[EMBEDDED-VIDEO [](/content/dam/site/sapcom/multimedia/2016/09/ba20053a-877c-0010-82c7-eda71af511fa.mp4)]
 
 ***Image by link***
 ![Image](https://octodex.github.com/images/yaktocat.png)
@@ -114,10 +117,6 @@ and
 | col 2 is      | centered        |   $12 |
 | zebra stripes | are neat        |    $1 |
 
-
-***You can use the VIDEO:***
-
-[EMBEDDED-VIDEO [](/content/dam/site/sapcom/multimedia/2016/09/ba20053a-877c-0010-82c7-eda71af511fa.mp4)]
 
 
 [ACCORDION-BEGIN [STEP 1](Accordion component which contains Images in Body)]
