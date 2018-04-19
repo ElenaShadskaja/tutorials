@@ -1,9 +1,8 @@
 ---
-title: validation form single answers tests  19 04
+title: validation form single answers tests  19 -04
 description:tests description
 primary_tag: tutorial>HANA
 tags: [tutorial:product/sapHana, tutorial:product/hana_studio]
-qrcode: true
 ---
 
 
