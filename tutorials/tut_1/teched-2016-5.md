@@ -1,5 +1,5 @@
 ---
-title: 1.45 DD Test with accordion 
+title: 2.02 DD Test with accordion 
 description: 1.45 updated Create a Destination to allow HANA Cloud Platform to nbvread/write data
 tags: [tutorial:product/mobile]
 primary_tag: tutorial:product/sapHana
