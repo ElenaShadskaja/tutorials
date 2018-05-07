@@ -1,6 +1,6 @@
 ---
 title: Validate rules test may2018 
-description:autotests description 222111
+description:autotests description 333222111
 primary_tag: tutorial>HANA
 tags: [tutorial:product/sapHana, tutorial:product/hana_studio]
 qrcode: true
