@@ -1,5 +1,5 @@
 ---
-title: autotests validation form 
+title: Validate rules test may2018 
 description:autotests description111
 primary_tag: tutorial>HANA
 tags: [tutorial:product/sapHana, tutorial:product/hana_studio]
