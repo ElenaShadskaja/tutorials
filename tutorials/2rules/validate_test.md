@@ -1,5 +1,5 @@
 ---
-title: Validate rules test 18may2018 
+title: Validate rules test 22/05/2018 
 description:autotests description to test 87autotests description to test 87autotests description to test 87autotests description to test 87autotests description to test 87autotests description to test 87autotests description to test 87autotests description to test 87autotests description to test 87autotests description to test 87autotests description to test 87autotests description to test 87autotests description to test 87autotests description to test 87autotests description to test 87autotests description to test 87autotests description to test 87autotests description to test 87autotests description to test 87autotests description to test 87autotests description to test 87v
 primary_tag: tutorial>HANA
 tags: [tutorial:product/sapHana, tutorial:product/hana_studio]
