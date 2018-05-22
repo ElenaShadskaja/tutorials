@@ -130,7 +130,7 @@ qrcode: true
  
 [ACCORDION-END]
 
-[ACCORDION-BEGIN (long question long questionlong questionlong questionlong questionlong questionlong questionlong questionlong questionlong questionlong questionlong questionlong questionlong questionlong questionlong questionlong questionlong questionlong questionlong question)] 
+[ACCORDION-BEGIN (hm question)] 
   
  [VALIDATE] 
  
