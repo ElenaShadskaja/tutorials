@@ -124,7 +124,7 @@ qrcode: true
  
 [ACCORDION-END]
 
-[ACCORDION-BEGIN [STEP 20](long question)] 
+[ACCORDION-BEGIN [STEP 20](long question long questionlong questionlong questionlong questionlong questionlong questionlong questionlong questionlong questionlong questionlong questionlong questionlong questionlong questionlong questionlong questionlong questionlong questionlong question)] 
   
  [VALIDATE_20] 
  
