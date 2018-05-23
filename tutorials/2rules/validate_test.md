@@ -130,8 +130,3 @@ qrcode: true
  
 [ACCORDION-END]
 
-[ACCORDION-BEGIN (hm question)] 
-  
- [VALIDATE] 
- 
-[ACCORDION-END]
