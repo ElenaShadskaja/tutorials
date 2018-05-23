@@ -7,7 +7,119 @@ qrcode: true
 ---
 
 [ACCORDION-BEGIN [STEP 1]( Extra match rule)] 
-   
+
+ **Example:javascript** 
+
+```javascript
+rg) {
+  20 line
+  quit;
+function fancyAlert(arg) { function fancyAlert(arg) {function fancyAlert(arg) {function fancyAlert(arg) {function fancyAlert(arg) {function fancyAlert(arg) {function fancyAlert(arg) { 
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+function fancyAlert(arg) {
+  if(arg) {
+  40 line
+  quit;
+function fancyAlert(arg) { function fancyAlert(arg) {function fancyAlert(arg) {function fancyAlert(arg) {function fancyAlert(arg) {function fancyAlert(arg) {function fancyAlert(arg) { 
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+function fancyAlert(arg) {
+  if(arg) {
+  60 line
+  quit;
+function fancyAlert(arg) { function fancyAlert(arg) {function fancyAlert(arg) {function fancyAlert(arg) {function fancyAlert(arg) {function fancyAlert(arg) {function fancyAlert(arg) { 
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+function fancyAlert(arg) {
+  if(arg) {
+  60 line
+  quit;
+function fancyAlert(arg) { function fancyAlert(arg) {function fancyAlert(arg) {function fancyAlert(arg) {function fancyAlert(arg) {function fancyAlert(arg) {function fancyAlert(arg) { 
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+function fancyAlert(arg) {
+  if(arg) {
+  80 line
+  quit;
+function fancyAlert(arg) { function fancyAlert(arg) {function fancyAlert(arg) {function fancyAlert(arg) {function fancyAlert(arg) {function fancyAlert(arg) {function fancyAlert(arg) { 
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+function fancyAlert(arg) {
+  if(arg) {
+  100 line
+  quit;
+function fancyAlert(arg) { function fancyAlert(arg) {function fancyAlert(arg) {function fancyAlert(arg) {function fancyAlert(arg) {function fancyAlert(arg) {function fancyAlert(arg) { 
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+```   
 [VALIDATE_1]
  
  [ACCORDION-END]
@@ -121,7 +233,121 @@ qrcode: true
 [ACCORDION-BEGIN [STEP 19](many special symbols in the match)] 
   
  [VALIDATE_19] 
- 
+
+
+ **Example:javascript** 
+
+```javascript
+rg) {
+  20 line
+  quit;
+function fancyAlert(arg) { function fancyAlert(arg) {function fancyAlert(arg) {function fancyAlert(arg) {function fancyAlert(arg) {function fancyAlert(arg) {function fancyAlert(arg) { 
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+function fancyAlert(arg) {
+  if(arg) {
+  40 line
+  quit;
+function fancyAlert(arg) { function fancyAlert(arg) {function fancyAlert(arg) {function fancyAlert(arg) {function fancyAlert(arg) {function fancyAlert(arg) {function fancyAlert(arg) { 
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+function fancyAlert(arg) {
+  if(arg) {
+  60 line
+  quit;
+function fancyAlert(arg) { function fancyAlert(arg) {function fancyAlert(arg) {function fancyAlert(arg) {function fancyAlert(arg) {function fancyAlert(arg) {function fancyAlert(arg) { 
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+function fancyAlert(arg) {
+  if(arg) {
+  60 line
+  quit;
+function fancyAlert(arg) { function fancyAlert(arg) {function fancyAlert(arg) {function fancyAlert(arg) {function fancyAlert(arg) {function fancyAlert(arg) {function fancyAlert(arg) { 
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+function fancyAlert(arg) {
+  if(arg) {
+  80 line
+  quit;
+function fancyAlert(arg) { function fancyAlert(arg) {function fancyAlert(arg) {function fancyAlert(arg) {function fancyAlert(arg) {function fancyAlert(arg) {function fancyAlert(arg) { 
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+function fancyAlert(arg) {
+  if(arg) {
+  100 line
+  quit;
+function fancyAlert(arg) { function fancyAlert(arg) {function fancyAlert(arg) {function fancyAlert(arg) {function fancyAlert(arg) {function fancyAlert(arg) {function fancyAlert(arg) { 
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+```
+
 [ACCORDION-END]
 
 [ACCORDION-BEGIN [STEP 20](long question long questionlong questionlong questionlong questionlong questionlong questionlong questionlong questionlong questionlong questionlong questionlong questionlong questionlong questionlong questionlong questionlong questionlong questionlong question)] 
