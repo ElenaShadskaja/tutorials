@@ -1,6 +1,6 @@
 ---
-title: Validate rules test 23/05/2018 11-30
-description:autotests description to test 87autotests description to test 87autotests description to test 87autotests description to test 87autotests description to test 87autotests description to test 87autotests description to test 87autotests description to test 87autotests description to test 87autotests description to test 87autotests description to test 87autotests description to test 87autotests description to test 87autotests description to test 87autotests description to test 87autotests description to test 87autotests description to test 87autotests description to test 87autotests description to test 87autotests description to test 87autotests description to test 87v
+title: Validate rules test 23/05/2018 12-30
+description:test description to test 87autotests description to test 87autotests description to test 87autotests description to test 87autotests description to test 87autotests lorem
 primary_tag: tutorial>HANA
 tags: [tutorial:product/sapHana, tutorial:product/hana_studio]
 qrcode: true
