@@ -11,33 +11,7 @@ qrcode: true
  **Example:javascript** 
 
 ```javascript
-rg) {
-  20 line
-  quit;
-function fancyAlert(arg) { function fancyAlert(arg) {function fancyAlert(arg) {function fancyAlert(arg) {function fancyAlert(arg) {function fancyAlert(arg) {function fancyAlert(arg) { 
-  if(arg) {
-    $.facebox({div:'#foo'})
-  }
-}
-function fancyAlert(arg) {
-  if(arg) {
-    $.facebox({div:'#foo'})
-  }
-}
-function fancyAlert(arg) {
-  if(arg) {
-    $.facebox({div:'#foo'})
-  }
-}
-function fancyAlert(arg) {
-  if(arg) {
-  40 line
-  quit;
-function fancyAlert(arg) { function fancyAlert(arg) {function fancyAlert(arg) {function fancyAlert(arg) {function fancyAlert(arg) {function fancyAlert(arg) {function fancyAlert(arg) { 
-  if(arg) {
-    $.facebox({div:'#foo'})
-  }
-}
+
 function fancyAlert(arg) {
   if(arg) {
     $.facebox({div:'#foo'})
@@ -57,68 +31,7 @@ function fancyAlert(arg) { function fancyAlert(arg) {function fancyAlert(arg) {f
     $.facebox({div:'#foo'})
   }
 }
-function fancyAlert(arg) {
-  if(arg) {
-    $.facebox({div:'#foo'})
-  }
-}
-function fancyAlert(arg) {
-  if(arg) {
-    $.facebox({div:'#foo'})
-  }
-}
-function fancyAlert(arg) {
-  if(arg) {
-  60 line
-  quit;
-function fancyAlert(arg) { function fancyAlert(arg) {function fancyAlert(arg) {function fancyAlert(arg) {function fancyAlert(arg) {function fancyAlert(arg) {function fancyAlert(arg) { 
-  if(arg) {
-    $.facebox({div:'#foo'})
-  }
-}
-function fancyAlert(arg) {
-  if(arg) {
-    $.facebox({div:'#foo'})
-  }
-}
-function fancyAlert(arg) {
-  if(arg) {
-    $.facebox({div:'#foo'})
-  }
-}
-function fancyAlert(arg) {
-  if(arg) {
-  80 line
-  quit;
-function fancyAlert(arg) { function fancyAlert(arg) {function fancyAlert(arg) {function fancyAlert(arg) {function fancyAlert(arg) {function fancyAlert(arg) {function fancyAlert(arg) { 
-  if(arg) {
-    $.facebox({div:'#foo'})
-  }
-}
-function fancyAlert(arg) {
-  if(arg) {
-    $.facebox({div:'#foo'})
-  }
-}
-function fancyAlert(arg) {
-  if(arg) {
-    $.facebox({div:'#foo'})
-  }
-}
-function fancyAlert(arg) {
-  if(arg) {
-  100 line
-  quit;
-function fancyAlert(arg) { function fancyAlert(arg) {function fancyAlert(arg) {function fancyAlert(arg) {function fancyAlert(arg) {function fancyAlert(arg) {function fancyAlert(arg) { 
-  if(arg) {
-    $.facebox({div:'#foo'})
-  }
-}
-function fancyAlert(arg) {
-  if(arg) {
-    $.facebox({div:'#foo'})
-  }
-}
+
 ```   
 [VALIDATE_1]
  
