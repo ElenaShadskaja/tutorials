@@ -1,5 +1,5 @@
 ---
-title: Resgression Tutorial with all component 24/05 20+steps 5-48pm
+title: Resgression Tutorial with all component edited 24/05 20+steps 5-48pm
 description: example1
 tags: [products>sap-hana, tutorial>beginner]
 primary_tag: tutorial:product/sapHana
@@ -482,7 +482,7 @@ Validation rules
 
 [VALIDATE_6]Validation rules
 
-[ACCORDION-BEGIN [STEP 1]( Extra match rule)] [VALIDATE_1] [ACCORDION-END]
+[ACCORDION-BEGIN [STEP 111]( Extra match rule)] [VALIDATE_111] [ACCORDION-END]
 
 [ACCORDION-BEGIN [STEP 2]( Regex Sub-string)] [VALIDATE_2] [ACCORDION-END]
 
