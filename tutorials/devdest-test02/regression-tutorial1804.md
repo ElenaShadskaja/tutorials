@@ -1,5 +1,5 @@
 ---
-title: Resgression Tutorial with all component 23/05 20+steps
+title: Resgression Tutorial with all component 24/05 20+steps 5-48pm
 description: example1
 tags: [products>sap-hana, tutorial>beginner]
 primary_tag: tutorial:product/sapHana
