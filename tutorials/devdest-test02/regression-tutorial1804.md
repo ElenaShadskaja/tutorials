@@ -13,6 +13,8 @@ You can use:
 
 
 
+[EMBEDDED-VIDEO [](/content/dam/site/sapcom/multimedia/2018/04/58da5f1c-017d-0010-87a3-c30de2ffd8ff.mp4]
+
 ***Text*** (including bold, italic, etc)
 
   **Example:** 
@@ -241,7 +243,9 @@ In the words of Abraham Lincoln:
 [ACCORDION-BEGIN [STEP 10](Accordion component which contains types of messages (Note, Caution and Warning) in Body)]
 ***There are three different types of messages: Note, Caution and Warning.***
 
-[EMBEDDED-VIDEO [](/content/dam/site/sapcom/multimedia/2017/12/746085f5-e27c-0010-82c7-eda71af511fa.mp4)]
+[EMBEDDED-VIDEO [](https://sapevents-lh.akamaihd.net/i/te171_live@540884/master.m3u8)]
+
+[EMBEDDED-VIDEO [](/content/dam/site/sapcom/multimedia/2018/04/58da5f1c-017d-0010-87a3-c30de2ffd8ff.mp4)]
 >### Warning
 >jhkjhkjhkjhkj
 >>### Warning
@@ -507,3 +511,4 @@ Validation rules
 [EMBEDDED-VIDEO [](/content/dam/site/sapcom/multimedia/2016/09/ba20053a-877c-0010-82c7-eda71af511fa.mp4)]
 
 
+[EMBEDDED-VIDEO [](/content/dam/site/sapcom/multimedia/2018/04/58da5f1c-017d-0010-87a3-c30de2ffd8ff.mp4]
