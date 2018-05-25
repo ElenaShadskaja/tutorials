@@ -170,7 +170,7 @@ and
 [ACCORDION-BEGIN [STEP 5](Accordion component which contains Text in Body)]
 We are currently in open beta for the new SAP community. Here's your opportunity to test out the new features and give us your feedback. Not in the mood to try out the new community just yet? Then continue on to the SAP Community Network (SCN) where you currently collaborate with other members.
 
-[EMBEDDED-VIDEO [](/content/dam/site/sapcom/multimedia/2017/12/746085f5-e27c-0010-82c7-eda71af511fa.mp4)]
+
 
 We are currently in open beta for the new SAP community. Here's your opportunity to test out the new features and give us your feedback. Not in the mood to try out the new community just yet? Then continue on to the SAP Community Network (SCN) where you currently collaborate with other members.
 
@@ -370,7 +370,9 @@ CREATE TABLE video_event (
 [ACCORDION-BEGIN [STEP 12](Accordion component which contains code block and no code block in Body)]
 ***Code blocks:***
 
-[EMBEDDED-VIDEO [](/content/dam/site/sapcom/multimedia/2017/12/746085f5-e27c-0010-82c7-eda71af511fa.mp4)]
+*** 2d inside step VIDEO: link like /content/dam/site/sapcom/multimedia/2016/09/ba20053a-877c-0010-82c7-eda71af511fa.mp4***
+
+[EMBEDDED-VIDEO [](/content/dam/site/sapcom/multimedia/2016/09/ba20053a-877c-0010-82c7-eda71af511fa.mp4)]
 
 ```markup
  quit;
@@ -497,3 +499,11 @@ Validation rules
 [VALIDATE_6]
 
 ![Image](https://octodex.github.com/images/yaktocat.png)
+
+[EMBEDDED-VIDEO [](/content/dam/site/sapcom/multimedia/2017/12/746085f5-e27c-0010-82c7-eda71af511fa.mp4)]
+
+***You can use the VIDEO: link like /content/dam/site/sapcom/multimedia/2016/09/ba20053a-877c-0010-82c7-eda71af511fa.mp4***
+
+[EMBEDDED-VIDEO [](/content/dam/site/sapcom/multimedia/2016/09/ba20053a-877c-0010-82c7-eda71af511fa.mp4)]
+
+
