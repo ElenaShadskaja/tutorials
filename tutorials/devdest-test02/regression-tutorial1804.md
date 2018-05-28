@@ -18,7 +18,7 @@ You can use:
 
 ## Prerequisites  
 - **Proficiency:** Beginner test 28050 sprint 3 story 138
-- **System:** Access to an SAP HANA 2.0 system with the optional SAP HANA Dynamic Tiering component installed. For older systems, please refer to [SAP HANA Dynamic Tiering – Quick Start Guide - Lesson 3: Monitoring SAP HANA Dynamic Tiering Using HANA Studio and HANA Cockpit](https://www.sap.com/documents/2016/06/309a2320-757c-0010-82c7-eda71af511fa.html) for instructions.
+- **System:** Access to an SAP HANA 2.0 system with the optional SAP HANA Dynamic Tiering component installed. For older systems, please refer to [SAP HANA test new](https://dx-test.mo.sap.corp/developers/ddtcnew/regression-tutorial804.html) for instructions.
 - **Integrated Development Environment:** Cockpit is already installed and configured. Basic working knowledge of SAP HANA Studio and SAP HANA Cockpit. E.g. You should be able to connect to your HANA instance from SAP HANA Studio and feel comfortable with executing simple queries.
 - **Credentials:** Have a cockpit admin user and password with access to your HANA system and access to "`<SID>adm`" for a SSH session
 
