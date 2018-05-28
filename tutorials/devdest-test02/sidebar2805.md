@@ -24,6 +24,7 @@ SAP HANA cockpit is also used for monitoring and managing checks which include:
   - Analyzing usage of CPU, memory and tables i.e. how much memory is being used
   - Used to monitor the percentage of `DBspace` in use and view alerts for `DBspaces` nearing their capacity
   - Ability to view and search for various server logs and custom traces
+  
 ## Prerequisites  
 - **Proficiency:** Beginner
 - **System:** Access to an SAP HANA 2.0 system with the optional SAP HANA Dynamic Tiering component installed. For older systems, please refer to [SAP HANA Dynamic Tiering – Quick Start Guide - Lesson 3: Monitoring SAP HANA Dynamic Tiering Using HANA Studio and HANA Cockpit](https://www.sap.com/documents/2016/06/309a2320-757c-0010-82c7-eda71af511fa.html) for instructions.
@@ -67,6 +68,14 @@ The `M_SERVICES` view enables a user to identify the coordinator type for the `e
   - None -This means that your extended storage service is running, however you have not yet added/created any extended storage as yet. If your Dynamic Tiering host is causing a problem, then you know that you need to add the extended storage in order to fix the possible issue
   - Master (as in our case) -Your extended storage is running and it is created/added. Therefore, the Dynamic Tiering host should be completely operational. Since we had created extended storage in the previous lesson (creating tables and loading data) the coordinator type for us is "Master"
   - Standby -This means your `esserver` is on your standby node and Dynamic Tiering is not active.
+ 
+
+``` sql
+select * from M_SERVICES
+```
+[DONE]
+[ACCORDION-END]
+
 ## Details
 ### You will learn
  - Capabilities of SAP HANA Cockpit related to SAP HANA Dynamic Tiering
@@ -76,13 +85,5 @@ The `M_SERVICES` view enables a user to identify the coordinator type for the `e
 ### Time to Complete
 **15 Min**
 To view the coordinator types in SAP HANA Studio, execute the following in a SQL console:
-
-``` sql
-select * from M_SERVICES
-```
-[DONE]
-[ACCORDION-END]
-
-
 ## Next Steps
 - **Tutorials:** [Creating and Removing Extended Storage](coming soon)
