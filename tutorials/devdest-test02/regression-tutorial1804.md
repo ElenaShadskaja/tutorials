@@ -1,5 +1,5 @@
 ---
-title: Resgression Tutorial with all component edited twice 25/05 20+steps 3-15pm
+title: Resgression Tutorial with all component edited twice 28/05 20+steps 
 description: example1
 tags: [products>sap-hana, tutorial>beginner]
 primary_tag: tutorial:product/sapHana
@@ -38,6 +38,16 @@ You can use ~~strikethrough~~ font
 ###### This is an h6 header
 
 ***Lists***
+
+## Details
+### You will learn
+ - Capabilities of SAP HANA Cockpit related to SAP HANA Dynamic Tiering
+ - Checking the `Esserver` Status to see if Dynamic Tiering is active
+ - Checking Coordinator Types to see if extended storage is running and created
+
+### Time to Complete
+**15 Min**
+To view the coordinator types in SAP HANA Studio, execute the following in a SQL console:
 
   **Example:** 
   
