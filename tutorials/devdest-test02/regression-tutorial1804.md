@@ -47,6 +47,7 @@ You can use ~~strikethrough~~ font
 
 ### Time to Complete
 **15 Min**
+
 To view the coordinator types in SAP HANA Studio, execute the following in a SQL console:
 
   **Example:** 
