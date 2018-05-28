@@ -7,7 +7,7 @@ primary_tag: tutorial:product/sapHana
 
 
 You can use:
-***You can use the VIDEO: link like /content/dam/site/sapcom/multimedia/2018/04/58da5f1c-017d-0010-87a3-c30de2ffd8ff.mp4***
+***This is one of site "girl with purple border " VIDEO: link like /content/dam/site/sapcom/multimedia/2018/04/58da5f1c-017d-0010-87a3-c30de2ffd8ff.mp4***
 
 [EMBEDDED-VIDEO [](/content/dam/site/sapcom/multimedia/2018/04/58da5f1c-017d-0010-87a3-c30de2ffd8ff.mp4)]
 You can use ~~strikethrough~~ font
