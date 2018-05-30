@@ -1,5 +1,5 @@
 ---
-title: Resgression Tutorial with all component edited twice 28/05 20+steps 
+title: Resgression Tutorial with all component edited twice 30/05 20+steps 
 description: example1
 tags: [products>sap-hana, tutorial>beginner]
 primary_tag: tutorial:product/sapHana
