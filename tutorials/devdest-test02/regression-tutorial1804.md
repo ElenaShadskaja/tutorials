@@ -367,5 +367,38 @@ There are advances being made in science and technology everyday, and a good exa
 [VALIDATE_9] 
 [VALIDATE_8]
 [ACCORDION-END]
+  
+   **Image from another folderS. Example: folder_with_images/inner_folder/image.png (png format)**
+   
+   ![folder](folder_with_images/inner_folder/window.png)
+   
+   
+  [ACCORDION-BEGIN [STEP 1](Image with  *JPG format (jpg format))]
+   
+   ![Repositories](cat0.JPG)
+   [ACCORDION-END]
+   
+   
+     [ACCORDION-BEGIN [STEP 2](Image with  *PNG format (png format))]
 
-![Image](https://octodex.github.com/images/yaktocat.png)
+     ![Repositories](watch.PNG)
+     [ACCORDION-END]
+   
+
+     [ACCORDION-BEGIN [STEP 3](Image with *jpg format)]
+
+   ![Repositories](Funny-Baby-11.jpg)
+   [ACCORDION-END]
+   
+   
+  [ACCORDION-BEGIN [STEP 4](Image with *png format)]
+
+   ![Repositories](monster.png)
+   [ACCORDION-END]
+   
+   
+     [ACCORDION-BEGIN [STEP 5](Image with spaces between words (jpg format))]
+
+      ![Repositories](cat 1508613.jpg)
+![Image](https://octodex.gi
+thub.com/images/yaktocat.png)
