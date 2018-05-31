@@ -23,3 +23,5 @@ primary_tag: tutorial:product/mobile
 [VALIDATE_3]
 [ACCORDION-END]
 
+
+![Image](https://helpx.adobe.com/acrobat/kb/not-default-pdf-owner-windows10/_jcr_content/main-pars/procedure_1039842004/proc_par/step_0/step_par/image.img.png/Properties.png)
