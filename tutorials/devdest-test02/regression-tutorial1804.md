@@ -148,6 +148,10 @@ and
 [ACCORDION-BEGIN [STEP 2](Accordion component which contains link(s) in Body)]
 Select a tutorial from the [Tutorial Navigator](http://go.sap.com/developer/tutorial-navigator.html) or the [Tutorial Catalog](http://go.sap.com/developer/tutorials.html)
 
+![Image](https://octodex.github.com/images/yaktocat.png)
+
+![Image](https://www.sap.com/dam/application/imagelibrary/pictograms/282000/282140-pictogram_blue.svg)
+
 [EMBEDDED-VIDEO [](/content/dam/site/sapcom/multimedia/2017/12/746085f5-e27c-0010-82c7-eda71af511fa.mp4)]
 
 [DONE]
@@ -523,7 +527,7 @@ Validation rules
 
 ![Image](https://octodex.github.com/images/yaktocat.png)
 
-![Image](/en/my-support/knowledge-base/_jcr_content/sectionContainer/par/section_307623726/par-section/mediapanel/image-object.adaptto.desktop_full_hd.png)
+![Image](https://www.sap.com/dam/application/imagelibrary/pictograms/282000/282140-pictogram_blue.svg)
 
 [EMBEDDED-VIDEO [](/content/dam/site/sapcom/multimedia/2017/12/746085f5-e27c-0010-82c7-eda71af511fa.mp4)]
 
