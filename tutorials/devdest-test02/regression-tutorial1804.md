@@ -446,6 +446,55 @@ CREATE TABLE video_event (
 [ACCORDION-BEGIN [STEP 5](http-status-check 404)] 
 [VALIDATE_5] 
 [ACCORDION-END]
+
+[ACCORDION-BEGIN [STEP 1]( Extra match rule)] 
+[VALIDATE_1]
+[ACCORDION-END]
+
+ 
+[ACCORDION-BEGIN [STEP 2]( Regex Sub-string)] 
+[VALIDATE_2]
+[ACCORDION-END]
+
+
+[ACCORDION-BEGIN [STEP 3](Regex begins with)] 
+[VALIDATE_3]
+[ACCORDION-END]
+ 
+ 
+[ACCORDION-BEGIN [STEP 4](Regex with id Exact Match)] 
+[VALIDATE_4]
+[ACCORDION-END]
+ 
+ 
+[ACCORDION-BEGIN [STEP 5](http-status-check 404)] 
+[VALIDATE_5] 
+[ACCORDION-END]
+
+[ACCORDION-BEGIN [STEP 1]( Extra match rule)] 
+[VALIDATE_1]
+[ACCORDION-END]
+
+ 
+[ACCORDION-BEGIN [STEP 2]( Regex Sub-string)] 
+[VALIDATE_2]
+[ACCORDION-END]
+
+
+[ACCORDION-BEGIN [STEP 3](Regex begins with)] 
+[VALIDATE_3]
+[ACCORDION-END]
+ 
+ 
+[ACCORDION-BEGIN [STEP 4](Regex with id Exact Match)] 
+[VALIDATE_4]
+[ACCORDION-END]
+ 
+ 
+[ACCORDION-BEGIN [STEP 5](http-status-check 404)] 
+[VALIDATE_5] 
+[ACCORDION-END]
+
 [ACCORDION-BEGIN [STEP 1]( Extra match rule)] 
 [VALIDATE_1]
 [ACCORDION-END]
@@ -492,6 +541,7 @@ CREATE TABLE video_event (
 [ACCORDION-BEGIN [STEP 5](http-status-check 404)] 
 [VALIDATE_5] 
 [ACCORDION-END]
+
 [ACCORDION-BEGIN [STEP 1]( Extra match rule)] 
 [VALIDATE_1]
 [ACCORDION-END]
@@ -515,6 +565,7 @@ CREATE TABLE video_event (
 [ACCORDION-BEGIN [STEP 5](http-status-check 404)] 
 [VALIDATE_5] 
 [ACCORDION-END]
+
 [ACCORDION-BEGIN [STEP 1]( Extra match rule)] 
 [VALIDATE_1]
 [ACCORDION-END]
@@ -538,347 +589,7 @@ CREATE TABLE video_event (
 [ACCORDION-BEGIN [STEP 5](http-status-check 404)] 
 [VALIDATE_5] 
 [ACCORDION-END]
-[ACCORDION-BEGIN [STEP 1]( Extra match rule)] 
-[VALIDATE_1]
-[ACCORDION-END]
 
- 
-[ACCORDION-BEGIN [STEP 2]( Regex Sub-string)] 
-[VALIDATE_2]
-[ACCORDION-END]
-
-
-[ACCORDION-BEGIN [STEP 3](Regex begins with)] 
-[VALIDATE_3]
-[ACCORDION-END]
- 
- 
-[ACCORDION-BEGIN [STEP 4](Regex with id Exact Match)] 
-[VALIDATE_4]
-[ACCORDION-END]
- 
- 
-[ACCORDION-BEGIN [STEP 5](http-status-check 404)] 
-[VALIDATE_5] 
-[ACCORDION-END]
-[ACCORDION-BEGIN [STEP 1]( Extra match rule)] 
-[VALIDATE_1]
-[ACCORDION-END]
-
- 
-[ACCORDION-BEGIN [STEP 2]( Regex Sub-string)] 
-[VALIDATE_2]
-[ACCORDION-END]
-
-
-[ACCORDION-BEGIN [STEP 3](Regex begins with)] 
-[VALIDATE_3]
-[ACCORDION-END]
- 
- 
-[ACCORDION-BEGIN [STEP 4](Regex with id Exact Match)] 
-[VALIDATE_4]
-[ACCORDION-END]
- 
- 
-[ACCORDION-BEGIN [STEP 5](http-status-check 404)] 
-[VALIDATE_5] 
-[ACCORDION-END]
-[ACCORDION-BEGIN [STEP 1]( Extra match rule)] 
-[VALIDATE_1]
-[ACCORDION-END]
-
- 
-[ACCORDION-BEGIN [STEP 2]( Regex Sub-string)] 
-[VALIDATE_2]
-[ACCORDION-END]
-
-
-[ACCORDION-BEGIN [STEP 3](Regex begins with)] 
-[VALIDATE_3]
-[ACCORDION-END]
- 
- [ACCORDION-BEGIN [STEP 1]( Extra match rule)] 
-[VALIDATE_1]
-[ACCORDION-END]
-
- 
-[ACCORDION-BEGIN [STEP 2]( Regex Sub-string)] 
-[VALIDATE_2]
-[ACCORDION-END]
-
-
-[ACCORDION-BEGIN [STEP 3](Regex begins with)] 
-[VALIDATE_3]
-[ACCORDION-END]
- 
- 
-[ACCORDION-BEGIN [STEP 4](Regex with id Exact Match)] 
-[VALIDATE_4]
-[ACCORDION-END]
- 
- 
-[ACCORDION-BEGIN [STEP 5](http-status-check 404)] 
-[VALIDATE_5] 
-[ACCORDION-END]
-[ACCORDION-BEGIN [STEP 1]( Extra match rule)] 
-[VALIDATE_1]
-[ACCORDION-END]
-
- 
-[ACCORDION-BEGIN [STEP 2]( Regex Sub-string)] 
-[VALIDATE_2]
-[ACCORDION-END]
-
-
-[ACCORDION-BEGIN [STEP 3](Regex begins with)] 
-[VALIDATE_3]
-[ACCORDION-END]
- 
- 
-[ACCORDION-BEGIN [STEP 4](Regex with id Exact Match)] 
-[VALIDATE_4]
-[ACCORDION-END]
- 
- 
-[ACCORDION-BEGIN [STEP 5](http-status-check 404)] 
-[VALIDATE_5] 
-[ACCORDION-END]
-[ACCORDION-BEGIN [STEP 1]( Extra match rule)] 
-[VALIDATE_1]
-[ACCORDION-END]
-
- 
-[ACCORDION-BEGIN [STEP 2]( Regex Sub-string)] 
-[VALIDATE_2]
-[ACCORDION-END]
-
-
-[ACCORDION-BEGIN [STEP 3](Regex begins with)] 
-[VALIDATE_3]
-[ACCORDION-END]
- 
- 
-[ACCORDION-BEGIN [STEP 4](Regex with id Exact Match)] 
-[VALIDATE_4]
-[ACCORDION-END]
- 
- 
-[ACCORDION-BEGIN [STEP 5](http-status-check 404)] 
-[VALIDATE_5] 
-[ACCORDION-END]
-[ACCORDION-BEGIN [STEP 1]( Extra match rule)] 
-[VALIDATE_1]
-[ACCORDION-END]
-
- 
-[ACCORDION-BEGIN [STEP 2]( Regex Sub-string)] 
-[VALIDATE_2]
-[ACCORDION-END]
-
-
-[ACCORDION-BEGIN [STEP 3](Regex begins with)] 
-[VALIDATE_3]
-[ACCORDION-END]
- 
- 
-[ACCORDION-BEGIN [STEP 4](Regex with id Exact Match)] 
-[VALIDATE_4]
-[ACCORDION-END]
- 
- 
-[ACCORDION-BEGIN [STEP 5](http-status-check 404)] 
-[VALIDATE_5] 
-[ACCORDION-END]
-[ACCORDION-BEGIN [STEP 1]( Extra match rule)] 
-[VALIDATE_1]
-[ACCORDION-END]
-
- 
-[ACCORDION-BEGIN [STEP 2]( Regex Sub-string)] 
-[VALIDATE_2]
-[ACCORDION-END]
-
-
-[ACCORDION-BEGIN [STEP 3](Regex begins with)] 
-[VALIDATE_3]
-[ACCORDION-END]
- 
- 
-[ACCORDION-BEGIN [STEP 4](Regex with id Exact Match)] 
-[VALIDATE_4]
-[ACCORDION-END]
- 
- 
-[ACCORDION-BEGIN [STEP 5](http-status-check 404)] 
-[VALIDATE_5] 
-[ACCORDION-END]
-[ACCORDION-BEGIN [STEP 1]( Extra match rule)] 
-[VALIDATE_1]
-[ACCORDION-END]
-
- 
-[ACCORDION-BEGIN [STEP 2]( Regex Sub-string)] 
-[VALIDATE_2]
-[ACCORDION-END]
-
-
-[ACCORDION-BEGIN [STEP 3](Regex begins with)] 
-[VALIDATE_3]
-[ACCORDION-END]
- 
- [ACCORDION-BEGIN [STEP 1]( Extra match rule)] 
-[VALIDATE_1]
-[ACCORDION-END]
-
- 
-[ACCORDION-BEGIN [STEP 2]( Regex Sub-string)] 
-[VALIDATE_2]
-[ACCORDION-END]
-
-
-[ACCORDION-BEGIN [STEP 3](Regex begins with)] 
-[VALIDATE_3]
-[ACCORDION-END]
- 
- [ACCORDION-BEGIN [STEP 1]( Extra match rule)] 
-[VALIDATE_1]
-[ACCORDION-END]
-
- 
-[ACCORDION-BEGIN [STEP 2]( Regex Sub-string)] 
-[VALIDATE_2]
-[ACCORDION-END]
-
-
-[ACCORDION-BEGIN [STEP 3](Regex begins with)] 
-[VALIDATE_3]
-[ACCORDION-END]
- 
- 
-[ACCORDION-BEGIN [STEP 4](Regex with id Exact Match)] 
-[VALIDATE_4]
-[ACCORDION-END]
- 
- 
-[ACCORDION-BEGIN [STEP 5](http-status-check 404)] 
-[VALIDATE_5] 
-[ACCORDION-END]
-[ACCORDION-BEGIN [STEP 1]( Extra match rule)] 
-[VALIDATE_1]
-[ACCORDION-END]
-
- 
-[ACCORDION-BEGIN [STEP 2]( Regex Sub-string)] 
-[VALIDATE_2]
-[ACCORDION-END]
-
-
-[ACCORDION-BEGIN [STEP 3](Regex begins with)] 
-[VALIDATE_3]
-[ACCORDION-END]
- 
- 
-[ACCORDION-BEGIN [STEP 4](Regex with id Exact Match)] 
-[VALIDATE_4]
-[ACCORDION-END]
- 
- 
-[ACCORDION-BEGIN [STEP 5](http-status-check 404)] 
-[VALIDATE_5] 
-[ACCORDION-END]
-[ACCORDION-BEGIN [STEP 1]( Extra match rule)] 
-[VALIDATE_1]
-[ACCORDION-END]
-
- 
-[ACCORDION-BEGIN [STEP 2]( Regex Sub-string)] 
-[VALIDATE_2]
-[ACCORDION-END]
-
-
-[ACCORDION-BEGIN [STEP 3](Regex begins with)] 
-[VALIDATE_3]
-[ACCORDION-END]
- 
- 
-[ACCORDION-BEGIN [STEP 4](Regex with id Exact Match)] 
-[VALIDATE_4]
-[ACCORDION-END]
- 
- 
-[ACCORDION-BEGIN [STEP 5](http-status-check 404)] 
-[VALIDATE_5] 
-[ACCORDION-END]
-[ACCORDION-BEGIN [STEP 1]( Extra match rule)] 
-[VALIDATE_1]
-[ACCORDION-END]
-
- 
-[ACCORDION-BEGIN [STEP 2]( Regex Sub-string)] 
-[VALIDATE_2]
-[ACCORDION-END]
-
-
-[ACCORDION-BEGIN [STEP 3](Regex begins with)] 
-[VALIDATE_3]
-[ACCORDION-END]
- 
- 
-[ACCORDION-BEGIN [STEP 4](Regex with id Exact Match)] 
-[VALIDATE_4]
-[ACCORDION-END]
- 
- 
-[ACCORDION-BEGIN [STEP 5](http-status-check 404)] 
-[VALIDATE_5] 
-[ACCORDION-END]
-[ACCORDION-BEGIN [STEP 1]( Extra match rule)] 
-[VALIDATE_1]
-[ACCORDION-END]
-
- 
-[ACCORDION-BEGIN [STEP 2]( Regex Sub-string)] 
-[VALIDATE_2]
-[ACCORDION-END]
-
-
-[ACCORDION-BEGIN [STEP 3](Regex begins with)] 
-[VALIDATE_3]
-[ACCORDION-END]
- 
- 
-[ACCORDION-BEGIN [STEP 4](Regex with id Exact Match)] 
-[VALIDATE_4]
-[ACCORDION-END]
- 
- 
-[ACCORDION-BEGIN [STEP 5](http-status-check 404)] 
-[VALIDATE_5] 
-[ACCORDION-END]
-[ACCORDION-BEGIN [STEP 1]( Extra match rule)] 
-[VALIDATE_1]
-[ACCORDION-END]
-
- 
-[ACCORDION-BEGIN [STEP 2]( Regex Sub-string)] 
-[VALIDATE_2]
-[ACCORDION-END]
-
-
-[ACCORDION-BEGIN [STEP 3](Regex begins with)] 
-[VALIDATE_3]
-[ACCORDION-END]
- 
- 
-[ACCORDION-BEGIN [STEP 4](Regex with id Exact Match)] 
-[VALIDATE_4]
-[ACCORDION-END]
- 
- 
-[ACCORDION-BEGIN [STEP 5](http-status-check 404)] 
-[VALIDATE_5] 
-[ACCORDION-END]
 [ACCORDION-BEGIN [STEP 1]( Extra match rule)] 
 [VALIDATE_1]
 [ACCORDION-END]
@@ -916,6 +627,409 @@ CREATE TABLE video_event (
 [ACCORDION-BEGIN [STEP 5](http-status-check 404)] 
 [VALIDATE_5] 
 [ACCORDION-END]
+
+[ACCORDION-BEGIN [STEP 1]( Extra match rule)] 
+[VALIDATE_1]
+[ACCORDION-END]
+
+ 
+[ACCORDION-BEGIN [STEP 2]( Regex Sub-string)] 
+[VALIDATE_2]
+[ACCORDION-END]
+
+
+[ACCORDION-BEGIN [STEP 3](Regex begins with)] 
+[VALIDATE_3]
+[ACCORDION-END]
+ 
+ 
+[ACCORDION-BEGIN [STEP 4](Regex with id Exact Match)] 
+[VALIDATE_4]
+[ACCORDION-END]
+ 
+ 
+[ACCORDION-BEGIN [STEP 5](http-status-check 404)] 
+[VALIDATE_5] 
+[ACCORDION-END]
+
+[ACCORDION-BEGIN [STEP 1]( Extra match rule)] 
+[VALIDATE_1]
+[ACCORDION-END]
+
+ 
+[ACCORDION-BEGIN [STEP 2]( Regex Sub-string)] 
+[VALIDATE_2]
+[ACCORDION-END]
+
+
+[ACCORDION-BEGIN [STEP 3](Regex begins with)] 
+[VALIDATE_3]
+[ACCORDION-END]
+ 
+ 
+[ACCORDION-BEGIN [STEP 4](Regex with id Exact Match)] 
+[VALIDATE_4]
+[ACCORDION-END]
+ 
+ 
+[ACCORDION-BEGIN [STEP 5](http-status-check 404)] 
+[VALIDATE_5] 
+[ACCORDION-END]
+
+[ACCORDION-BEGIN [STEP 1]( Extra match rule)] 
+[VALIDATE_1]
+[ACCORDION-END]
+
+ 
+[ACCORDION-BEGIN [STEP 2]( Regex Sub-string)] 
+[VALIDATE_2]
+[ACCORDION-END]
+
+
+[ACCORDION-BEGIN [STEP 3](Regex begins with)] 
+[VALIDATE_3]
+[ACCORDION-END]
+ 
+ 
+[ACCORDION-BEGIN [STEP 4](Regex with id Exact Match)] 
+[VALIDATE_4]
+[ACCORDION-END]
+ 
+ 
+[ACCORDION-BEGIN [STEP 5](http-status-check 404)] 
+[VALIDATE_5] 
+[ACCORDION-END]
+
+[ACCORDION-BEGIN [STEP 1]( Extra match rule)] 
+[VALIDATE_1]
+[ACCORDION-END]
+
+ 
+[ACCORDION-BEGIN [STEP 2]( Regex Sub-string)] 
+[VALIDATE_2]
+[ACCORDION-END]
+
+
+[ACCORDION-BEGIN [STEP 3](Regex begins with)] 
+[VALIDATE_3]
+[ACCORDION-END]
+ 
+ 
+[ACCORDION-BEGIN [STEP 4](Regex with id Exact Match)] 
+[VALIDATE_4]
+[ACCORDION-END]
+ 
+ 
+[ACCORDION-BEGIN [STEP 5](http-status-check 404)] 
+[VALIDATE_5] 
+[ACCORDION-END]
+
+[ACCORDION-BEGIN [STEP 1]( Extra match rule)] 
+[VALIDATE_1]
+[ACCORDION-END]
+
+ 
+[ACCORDION-BEGIN [STEP 2]( Regex Sub-string)] 
+[VALIDATE_2]
+[ACCORDION-END]
+
+
+[ACCORDION-BEGIN [STEP 3](Regex begins with)] 
+[VALIDATE_3]
+[ACCORDION-END]
+ 
+ [ACCORDION-BEGIN [STEP 1]( Extra match rule)] 
+[VALIDATE_1]
+[ACCORDION-END]
+
+ 
+[ACCORDION-BEGIN [STEP 2]( Regex Sub-string)] 
+[VALIDATE_2]
+[ACCORDION-END]
+
+
+[ACCORDION-BEGIN [STEP 3](Regex begins with)] 
+[VALIDATE_3]
+[ACCORDION-END]
+ 
+ [ACCORDION-BEGIN [STEP 1]( Extra match rule)] 
+[VALIDATE_1]
+[ACCORDION-END]
+
+ 
+[ACCORDION-BEGIN [STEP 2]( Regex Sub-string)] 
+[VALIDATE_2]
+[ACCORDION-END]
+
+
+[ACCORDION-BEGIN [STEP 3](Regex begins with)] 
+[VALIDATE_3]
+[ACCORDION-END]
+ 
+ 
+[ACCORDION-BEGIN [STEP 4](Regex with id Exact Match)] 
+[VALIDATE_4]
+[ACCORDION-END]
+ 
+ 
+[ACCORDION-BEGIN [STEP 5](http-status-check 404)] 
+[VALIDATE_5] 
+[ACCORDION-END]
+
+[ACCORDION-BEGIN [STEP 1]( Extra match rule)] 
+[VALIDATE_1]
+[ACCORDION-END]
+
+ 
+[ACCORDION-BEGIN [STEP 2]( Regex Sub-string)] 
+[VALIDATE_2]
+[ACCORDION-END]
+
+
+[ACCORDION-BEGIN [STEP 3](Regex begins with)] 
+[VALIDATE_3]
+[ACCORDION-END]
+ 
+ 
+[ACCORDION-BEGIN [STEP 4](Regex with id Exact Match)] 
+[VALIDATE_4]
+[ACCORDION-END]
+ 
+ 
+[ACCORDION-BEGIN [STEP 5](http-status-check 404)] 
+[VALIDATE_5] 
+[ACCORDION-END]
+
+[ACCORDION-BEGIN [STEP 1]( Extra match rule)] 
+[VALIDATE_1]
+[ACCORDION-END]
+
+ 
+[ACCORDION-BEGIN [STEP 2]( Regex Sub-string)] 
+[VALIDATE_2]
+[ACCORDION-END]
+
+
+[ACCORDION-BEGIN [STEP 3](Regex begins with)] 
+[VALIDATE_3]
+[ACCORDION-END]
+ 
+ 
+[ACCORDION-BEGIN [STEP 4](Regex with id Exact Match)] 
+[VALIDATE_4]
+[ACCORDION-END]
+ 
+ 
+[ACCORDION-BEGIN [STEP 5](http-status-check 404)] 
+[VALIDATE_5] 
+[ACCORDION-END]
+
+[ACCORDION-BEGIN [STEP 1]( Extra match rule)] 
+[VALIDATE_1]
+[ACCORDION-END]
+
+ 
+[ACCORDION-BEGIN [STEP 2]( Regex Sub-string)] 
+[VALIDATE_2]
+[ACCORDION-END]
+
+
+[ACCORDION-BEGIN [STEP 3](Regex begins with)] 
+[VALIDATE_3]
+[ACCORDION-END]
+ 
+ 
+[ACCORDION-BEGIN [STEP 4](Regex with id Exact Match)] 
+[VALIDATE_4]
+[ACCORDION-END]
+ 
+ 
+[ACCORDION-BEGIN [STEP 5](http-status-check 404)] 
+[VALIDATE_5] 
+[ACCORDION-END]
+
+[ACCORDION-BEGIN [STEP 1]( Extra match rule)] 
+[VALIDATE_1]
+[ACCORDION-END]
+
+ 
+[ACCORDION-BEGIN [STEP 2]( Regex Sub-string)] 
+[VALIDATE_2]
+[ACCORDION-END]
+
+
+[ACCORDION-BEGIN [STEP 3](Regex begins with)] 
+[VALIDATE_3]
+[ACCORDION-END]
+ 
+ 
+[ACCORDION-BEGIN [STEP 4](Regex with id Exact Match)] 
+[VALIDATE_4]
+[ACCORDION-END]
+ 
+ 
+[ACCORDION-BEGIN [STEP 5](http-status-check 404)] 
+[VALIDATE_5] 
+[ACCORDION-END]
+
+[ACCORDION-BEGIN [STEP 1]( Extra match rule)] 
+[VALIDATE_1]
+[ACCORDION-END]
+
+ 
+[ACCORDION-BEGIN [STEP 2]( Regex Sub-string)] 
+[VALIDATE_2]
+[ACCORDION-END]
+
+
+[ACCORDION-BEGIN [STEP 3](Regex begins with)] 
+[VALIDATE_3]
+[ACCORDION-END]
+ 
+ 
+[ACCORDION-BEGIN [STEP 4](Regex with id Exact Match)] 
+[VALIDATE_4]
+[ACCORDION-END]
+ 
+ 
+[ACCORDION-BEGIN [STEP 5](http-status-check 404)] 
+[VALIDATE_5] 
+[ACCORDION-END]
+
+[ACCORDION-BEGIN [STEP 1]( Extra match rule)] 
+[VALIDATE_1]
+[ACCORDION-END]
+
+ 
+[ACCORDION-BEGIN [STEP 2]( Regex Sub-string)] 
+[VALIDATE_2]
+[ACCORDION-END]
+
+
+[ACCORDION-BEGIN [STEP 3](Regex begins with)] 
+[VALIDATE_3]
+[ACCORDION-END]
+ 
+ [ACCORDION-BEGIN [STEP 1]( Extra match rule)] 
+[VALIDATE_1]
+[ACCORDION-END]
+
+ 
+[ACCORDION-BEGIN [STEP 2]( Regex Sub-string)] 
+[VALIDATE_2]
+[ACCORDION-END]
+
+
+[ACCORDION-BEGIN [STEP 3](Regex begins with)] 
+[VALIDATE_3]
+[ACCORDION-END]
+ 
+ 
+[ACCORDION-BEGIN [STEP 4](Regex with id Exact Match)] 
+[VALIDATE_4]
+[ACCORDION-END]
+ 
+ 
+[ACCORDION-BEGIN [STEP 5](http-status-check 404)] 
+[VALIDATE_5] 
+[ACCORDION-END]
+
+[ACCORDION-BEGIN [STEP 1]( Extra match rule)] 
+[VALIDATE_1]
+[ACCORDION-END]
+
+ 
+[ACCORDION-BEGIN [STEP 2]( Regex Sub-string)] 
+[VALIDATE_2]
+[ACCORDION-END]
+
+
+[ACCORDION-BEGIN [STEP 3](Regex begins with)] 
+[VALIDATE_3]
+[ACCORDION-END]
+ 
+ 
+[ACCORDION-BEGIN [STEP 4](Regex with id Exact Match)] 
+[VALIDATE_4]
+[ACCORDION-END]
+ 
+ 
+[ACCORDION-BEGIN [STEP 5](http-status-check 404)] 
+[VALIDATE_5] 
+[ACCORDION-END]
+
+[ACCORDION-BEGIN [STEP 1]( Extra match rule)] 
+[VALIDATE_1]
+[ACCORDION-END]
+
+ 
+[ACCORDION-BEGIN [STEP 2]( Regex Sub-string)] 
+[VALIDATE_2]
+[ACCORDION-END]
+
+
+[ACCORDION-BEGIN [STEP 3](Regex begins with)] 
+[VALIDATE_3]
+[ACCORDION-END]
+ 
+ 
+[ACCORDION-BEGIN [STEP 4](Regex with id Exact Match)] 
+[VALIDATE_4]
+[ACCORDION-END]
+ 
+ 
+[ACCORDION-BEGIN [STEP 5](http-status-check 404)] 
+[VALIDATE_5] 
+[ACCORDION-END]
+
+[ACCORDION-BEGIN [STEP 1]( Extra match rule)] 
+[VALIDATE_1]
+[ACCORDION-END]
+
+ 
+[ACCORDION-BEGIN [STEP 2]( Regex Sub-string)] 
+[VALIDATE_2]
+[ACCORDION-END]
+
+
+[ACCORDION-BEGIN [STEP 3](Regex begins with)] 
+[VALIDATE_3]
+[ACCORDION-END]
+ 
+ 
+[ACCORDION-BEGIN [STEP 4](Regex with id Exact Match)] 
+[VALIDATE_4]
+[ACCORDION-END]
+ 
+ 
+[ACCORDION-BEGIN [STEP 5](http-status-check 404)] 
+[VALIDATE_5] 
+[ACCORDION-END]
+
+[ACCORDION-BEGIN [STEP 1]( Extra match rule)] 
+[VALIDATE_1]
+[ACCORDION-END]
+
+ 
+[ACCORDION-BEGIN [STEP 2]( Regex Sub-string)] 
+[VALIDATE_2]
+[ACCORDION-END]
+
+
+[ACCORDION-BEGIN [STEP 3](Regex begins with)] 
+[VALIDATE_3]
+[ACCORDION-END]
+ 
+ 
+[ACCORDION-BEGIN [STEP 4](Regex with id Exact Match)] 
+[VALIDATE_4]
+[ACCORDION-END]
+ 
+ 
+[ACCORDION-BEGIN [STEP 5](http-status-check 404)] 
+[VALIDATE_5] 
+[ACCORDION-END]
+
 [ACCORDION-BEGIN [STEP 1]( Extra match rule)] 
 [VALIDATE_1]
 [ACCORDION-END]
@@ -962,6 +1076,7 @@ CREATE TABLE video_event (
 [ACCORDION-BEGIN [STEP 5](http-status-check 404)] 
 [VALIDATE_5] 
 [ACCORDION-END]
+
 [ACCORDION-BEGIN [STEP 1]( Extra match rule)] 
 [VALIDATE_1]
 [ACCORDION-END]
@@ -985,236 +1100,7 @@ CREATE TABLE video_event (
 [ACCORDION-BEGIN [STEP 5](http-status-check 404)] 
 [VALIDATE_5] 
 [ACCORDION-END]
-[ACCORDION-BEGIN [STEP 1]( Extra match rule)] 
-[VALIDATE_1]
-[ACCORDION-END]
 
- 
-[ACCORDION-BEGIN [STEP 2]( Regex Sub-string)] 
-[VALIDATE_2]
-[ACCORDION-END]
-
-
-[ACCORDION-BEGIN [STEP 3](Regex begins with)] 
-[VALIDATE_3]
-[ACCORDION-END]
- 
- 
-[ACCORDION-BEGIN [STEP 4](Regex with id Exact Match)] 
-[VALIDATE_4]
-[ACCORDION-END]
- 
- 
-[ACCORDION-BEGIN [STEP 5](http-status-check 404)] 
-[VALIDATE_5] 
-[ACCORDION-END]
-[ACCORDION-BEGIN [STEP 1]( Extra match rule)] 
-[VALIDATE_1]
-[ACCORDION-END]
-
- 
-[ACCORDION-BEGIN [STEP 2]( Regex Sub-string)] 
-[VALIDATE_2]
-[ACCORDION-END]
-
-
-[ACCORDION-BEGIN [STEP 3](Regex begins with)] 
-[VALIDATE_3]
-[ACCORDION-END]
- 
- 
-[ACCORDION-BEGIN [STEP 4](Regex with id Exact Match)] 
-[VALIDATE_4]
-[ACCORDION-END]
- 
- 
-[ACCORDION-BEGIN [STEP 5](http-status-check 404)] 
-[VALIDATE_5] 
-[ACCORDION-END]
-[ACCORDION-BEGIN [STEP 1]( Extra match rule)] 
-[VALIDATE_1]
-[ACCORDION-END]
-
- 
-[ACCORDION-BEGIN [STEP 2]( Regex Sub-string)] 
-[VALIDATE_2]
-[ACCORDION-END]
-
-
-[ACCORDION-BEGIN [STEP 3](Regex begins with)] 
-[VALIDATE_3]
-[ACCORDION-END]
- 
- 
-[ACCORDION-BEGIN [STEP 4](Regex with id Exact Match)] 
-[VALIDATE_4]
-[ACCORDION-END]
- 
- 
-[ACCORDION-BEGIN [STEP 5](http-status-check 404)] 
-[VALIDATE_5] 
-[ACCORDION-END]
-[ACCORDION-BEGIN [STEP 1]( Extra match rule)] 
-[VALIDATE_1]
-[ACCORDION-END]
-
- 
-[ACCORDION-BEGIN [STEP 2]( Regex Sub-string)] 
-[VALIDATE_2]
-[ACCORDION-END]
-
-
-[ACCORDION-BEGIN [STEP 3](Regex begins with)] 
-[VALIDATE_3]
-[ACCORDION-END]
- 
- 
-[ACCORDION-BEGIN [STEP 4](Regex with id Exact Match)] 
-[VALIDATE_4]
-[ACCORDION-END]
- 
- 
-[ACCORDION-BEGIN [STEP 5](http-status-check 404)] 
-[VALIDATE_5] 
-[ACCORDION-END]
-[ACCORDION-BEGIN [STEP 1]( Extra match rule)] 
-[VALIDATE_1]
-[ACCORDION-END]
-
- 
-[ACCORDION-BEGIN [STEP 2]( Regex Sub-string)] 
-[VALIDATE_2]
-[ACCORDION-END]
-
-
-[ACCORDION-BEGIN [STEP 3](Regex begins with)] 
-[VALIDATE_3]
-[ACCORDION-END]
- 
- 
-[ACCORDION-BEGIN [STEP 4](Regex with id Exact Match)] 
-[VALIDATE_4]
-[ACCORDION-END]
- 
- 
-[ACCORDION-BEGIN [STEP 5](http-status-check 404)] 
-[VALIDATE_5] 
-[ACCORDION-END]
-[ACCORDION-BEGIN [STEP 1]( Extra match rule)] 
-[VALIDATE_1]
-[ACCORDION-END]
-
- 
-[ACCORDION-BEGIN [STEP 2]( Regex Sub-string)] 
-[VALIDATE_2]
-[ACCORDION-END]
-
-
-[ACCORDION-BEGIN [STEP 3](Regex begins with)] 
-[VALIDATE_3]
-[ACCORDION-END]
- 
- 
-[ACCORDION-BEGIN [STEP 4](Regex with id Exact Match)] 
-[VALIDATE_4]
-[ACCORDION-END]
- 
- 
-[ACCORDION-BEGIN [STEP 5](http-status-check 404)] 
-[VALIDATE_5] 
-[ACCORDION-END]
-[ACCORDION-BEGIN [STEP 1]( Extra match rule)] 
-[VALIDATE_1]
-[ACCORDION-END]
-
- 
-[ACCORDION-BEGIN [STEP 2]( Regex Sub-string)] 
-[VALIDATE_2]
-[ACCORDION-END]
-
-
-[ACCORDION-BEGIN [STEP 3](Regex begins with)] 
-[VALIDATE_3]
-[ACCORDION-END]
- 
- 
-[ACCORDION-BEGIN [STEP 4](Regex with id Exact Match)] 
-[VALIDATE_4]
-[ACCORDION-END]
- 
- 
-[ACCORDION-BEGIN [STEP 5](http-status-check 404)] 
-[VALIDATE_5] 
-[ACCORDION-END]
-[ACCORDION-BEGIN [STEP 1]( Extra match rule)] 
-[VALIDATE_1]
-[ACCORDION-END]
-
- 
-[ACCORDION-BEGIN [STEP 2]( Regex Sub-string)] 
-[VALIDATE_2]
-[ACCORDION-END]
-
-
-[ACCORDION-BEGIN [STEP 3](Regex begins with)] 
-[VALIDATE_3]
-[ACCORDION-END]
- 
- 
-[ACCORDION-BEGIN [STEP 4](Regex with id Exact Match)] 
-[VALIDATE_4]
-[ACCORDION-END]
- 
- 
-[ACCORDION-BEGIN [STEP 5](http-status-check 404)] 
-[VALIDATE_5] 
-[ACCORDION-END]
-[ACCORDION-BEGIN [STEP 1]( Extra match rule)] 
-[VALIDATE_1]
-[ACCORDION-END]
-
- 
-[ACCORDION-BEGIN [STEP 2]( Regex Sub-string)] 
-[VALIDATE_2]
-[ACCORDION-END]
-
-
-[ACCORDION-BEGIN [STEP 3](Regex begins with)] 
-[VALIDATE_3]
-[ACCORDION-END]
- 
- 
-[ACCORDION-BEGIN [STEP 4](Regex with id Exact Match)] 
-[VALIDATE_4]
-[ACCORDION-END]
- 
- 
-[ACCORDION-BEGIN [STEP 5](http-status-check 404)] 
-[VALIDATE_5] 
-[ACCORDION-END]
-[ACCORDION-BEGIN [STEP 1]( Extra match rule)] 
-[VALIDATE_1]
-[ACCORDION-END]
-
- 
-[ACCORDION-BEGIN [STEP 2]( Regex Sub-string)] 
-[VALIDATE_2]
-[ACCORDION-END]
-
-
-[ACCORDION-BEGIN [STEP 3](Regex begins with)] 
-[VALIDATE_3]
-[ACCORDION-END]
- 
- 
-[ACCORDION-BEGIN [STEP 4](Regex with id Exact Match)] 
-[VALIDATE_4]
-[ACCORDION-END]
- 
- 
-[ACCORDION-BEGIN [STEP 5](http-status-check 404)] 
-[VALIDATE_5] 
-[ACCORDION-END]
 [ACCORDION-BEGIN [STEP 1]( Extra match rule)] 
 [VALIDATE_1]
 [ACCORDION-END]
@@ -1262,14 +1148,6 @@ CREATE TABLE video_event (
 [VALIDATE_5] 
 [ACCORDION-END]
 
-[ACCORDION-BEGIN [STEP 4](Regex with id Exact Match)] 
-[VALIDATE_4]
-[ACCORDION-END]
- 
- 
-[ACCORDION-BEGIN [STEP 5](http-status-check 404)] 
-[VALIDATE_5] 
-[ACCORDION-END]
 [ACCORDION-BEGIN [STEP 1]( Extra match rule)] 
 [VALIDATE_1]
 [ACCORDION-END]
@@ -1293,6 +1171,160 @@ CREATE TABLE video_event (
 [ACCORDION-BEGIN [STEP 5](http-status-check 404)] 
 [VALIDATE_5] 
 [ACCORDION-END]
+
+[ACCORDION-BEGIN [STEP 1]( Extra match rule)] 
+[VALIDATE_1]
+[ACCORDION-END]
+
+ 
+[ACCORDION-BEGIN [STEP 2]( Regex Sub-string)] 
+[VALIDATE_2]
+[ACCORDION-END]
+
+
+[ACCORDION-BEGIN [STEP 3](Regex begins with)] 
+[VALIDATE_3]
+[ACCORDION-END]
+ 
+ 
+[ACCORDION-BEGIN [STEP 4](Regex with id Exact Match)] 
+[VALIDATE_4]
+[ACCORDION-END]
+ 
+ 
+[ACCORDION-BEGIN [STEP 5](http-status-check 404)] 
+[VALIDATE_5] 
+[ACCORDION-END]
+
+[ACCORDION-BEGIN [STEP 1]( Extra match rule)] 
+[VALIDATE_1]
+[ACCORDION-END]
+
+ 
+[ACCORDION-BEGIN [STEP 2]( Regex Sub-string)] 
+[VALIDATE_2]
+[ACCORDION-END]
+
+
+[ACCORDION-BEGIN [STEP 3](Regex begins with)] 
+[VALIDATE_3]
+[ACCORDION-END]
+ 
+ 
+[ACCORDION-BEGIN [STEP 4](Regex with id Exact Match)] 
+[VALIDATE_4]
+[ACCORDION-END]
+ 
+ 
+[ACCORDION-BEGIN [STEP 5](http-status-check 404)] 
+[VALIDATE_5] 
+[ACCORDION-END]
+
+[ACCORDION-BEGIN [STEP 1]( Extra match rule)] 
+[VALIDATE_1]
+[ACCORDION-END]
+
+ 
+[ACCORDION-BEGIN [STEP 2]( Regex Sub-string)] 
+[VALIDATE_2]
+[ACCORDION-END]
+
+
+[ACCORDION-BEGIN [STEP 3](Regex begins with)] 
+[VALIDATE_3]
+[ACCORDION-END]
+ 
+ 
+[ACCORDION-BEGIN [STEP 4](Regex with id Exact Match)] 
+[VALIDATE_4]
+[ACCORDION-END]
+ 
+ 
+[ACCORDION-BEGIN [STEP 5](http-status-check 404)] 
+[VALIDATE_5] 
+[ACCORDION-END]
+
+[ACCORDION-BEGIN [STEP 1]( Extra match rule)] 
+[VALIDATE_1]
+[ACCORDION-END]
+
+ 
+[ACCORDION-BEGIN [STEP 2]( Regex Sub-string)] 
+[VALIDATE_2]
+[ACCORDION-END]
+
+
+[ACCORDION-BEGIN [STEP 3](Regex begins with)] 
+[VALIDATE_3]
+[ACCORDION-END]
+ 
+ 
+[ACCORDION-BEGIN [STEP 4](Regex with id Exact Match)] 
+[VALIDATE_4]
+[ACCORDION-END]
+ 
+ 
+[ACCORDION-BEGIN [STEP 5](http-status-check 404)] 
+[VALIDATE_5] 
+[ACCORDION-END]
+
+[ACCORDION-BEGIN [STEP 1]( Extra match rule)] 
+[VALIDATE_1]
+[ACCORDION-END]
+
+ 
+[ACCORDION-BEGIN [STEP 2]( Regex Sub-string)] 
+[VALIDATE_2]
+[ACCORDION-END]
+
+
+[ACCORDION-BEGIN [STEP 3](Regex begins with)] 
+[VALIDATE_3]
+[ACCORDION-END]
+ 
+ 
+[ACCORDION-BEGIN [STEP 4](Regex with id Exact Match)] 
+[VALIDATE_4]
+[ACCORDION-END]
+ 
+ 
+[ACCORDION-BEGIN [STEP 5](http-status-check 404)] 
+[VALIDATE_5] 
+[ACCORDION-END]
+
+[ACCORDION-BEGIN [STEP 4](Regex with id Exact Match)] 
+[VALIDATE_4]
+[ACCORDION-END]
+ 
+ 
+[ACCORDION-BEGIN [STEP 5](http-status-check 404)] 
+[VALIDATE_5] 
+[ACCORDION-END]
+
+[ACCORDION-BEGIN [STEP 1]( Extra match rule)] 
+[VALIDATE_1]
+[ACCORDION-END]
+
+ 
+[ACCORDION-BEGIN [STEP 2]( Regex Sub-string)] 
+[VALIDATE_2]
+[ACCORDION-END]
+
+
+[ACCORDION-BEGIN [STEP 3](Regex begins with)] 
+[VALIDATE_3]
+[ACCORDION-END]
+ 
+ 
+[ACCORDION-BEGIN [STEP 4](Regex with id Exact Match)] 
+[VALIDATE_4]
+[ACCORDION-END]
+ 
+ 
+[ACCORDION-BEGIN [STEP 5](http-status-check 404)] 
+[VALIDATE_5] 
+[ACCORDION-END]
+
 [ACCORDION-BEGIN [STEP 1]( Extra match rule)] 
 [VALIDATE_1]
 [ACCORDION-END]
