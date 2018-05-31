@@ -523,6 +523,8 @@ Validation rules
 
 ![Image](https://octodex.github.com/images/yaktocat.png)
 
+![Image](/en/my-support/knowledge-base/_jcr_content/sectionContainer/par/section_307623726/par-section/mediapanel/image-object.adaptto.desktop_full_hd.png)
+
 [EMBEDDED-VIDEO [](/content/dam/site/sapcom/multimedia/2017/12/746085f5-e27c-0010-82c7-eda71af511fa.mp4)]
 
 ***You can use the VIDEO: link like /content/dam/site/sapcom/multimedia/2016/09/ba20053a-877c-0010-82c7-eda71af511fa.mp4***
