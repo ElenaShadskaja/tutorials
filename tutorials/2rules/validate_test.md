@@ -60,7 +60,13 @@ function fancyAlert(arg) { function fancyAlert(arg) {function fancyAlert(arg) {f
  [ACCORDION-END]
 
 [ACCORDION-BEGIN [STEP 6](http-status-check 301, 401)] 
-  
+ 
+ MD-to-HTML generation where if I don’t have a space before a formatting code then it doesn’t render. But this is supposed to work in Markdown.
+
+**90** -- makes it bold in both
+(**90**) – Is displayed as (90) in markdown- correct!
+but as (**90**) in our HTML
+
  [VALIDATE_6] 
  
 [ACCORDION-END]
