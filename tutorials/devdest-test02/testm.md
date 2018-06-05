@@ -1,6 +1,6 @@
 ---
 title:  Tutorial with products sap-hana, products >sap-hana-cloud-platform, tutorial beginner
-description: example
+description: example 11
 tags: [products>sap-hana, products>sap-hana-cloud-platform, tutorial>beginner]
 primary_tag: tutorial:product/sapHana
 ---
