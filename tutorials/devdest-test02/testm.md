@@ -11,6 +11,7 @@ tutorial:product/sapHana
   **Example:** 
 
 ## Details
+Pe1rspectivesPe1rspectives
 ### You will learn  
 1. How to use HANA Studio Pe1rspectives
 2. How to create a connectiodn to the gHAhNA back endddв
