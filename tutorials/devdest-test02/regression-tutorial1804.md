@@ -115,13 +115,15 @@ and
 | zebra stripes | are neat        |    $1 |
 
 
-***You can use the VIDEO:***
+***You can use ONE! VIDEO:***
 
 [EMBEDDED-VIDEO [](/content/dam/site/sapcom/multimedia/2017/12/746085f5-e27c-0010-82c7-eda71af511fa.mp4)]
 
 
 [ACCORDION-BEGIN [STEP 1](Accordion component which contains Images in Body)]
     
+2nd video
+
 [EMBEDDED-VIDEO [](/content/dam/site/sapcom/multimedia/2017/12/746085f5-e27c-0010-82c7-eda71af511fa.mp4)]
 
 [DONE]
@@ -129,6 +131,7 @@ and
 
 [ACCORDION-BEGIN [STEP 2](Accordion component which contains link(s) in Body)]
 Select a tutorial from the [Tutorial Navigator](http://go.sap.com/developer/tutorial-navigator.html) or the [Tutorial Catalog](http://go.sap.com/developer/tutorials.html)
+3d video
 
 [EMBEDDED-VIDEO [](/content/dam/site/sapcom/multimedia/2017/12/746085f5-e27c-0010-82c7-eda71af511fa.mp4)]
 
@@ -138,7 +141,7 @@ Select a tutorial from the [Tutorial Navigator](http://go.sap.com/developer/tuto
 [ACCORDION-BEGIN [STEP 3](Accordion component which contains tables in Body)]
 ***Tables:***
 
-  **Example:** 
+  **Example:4th video** 
 
 [EMBEDDED-VIDEO [](/content/dam/site/sapcom/multimedia/2017/12/746085f5-e27c-0010-82c7-eda71af511fa.mp4)]
 
