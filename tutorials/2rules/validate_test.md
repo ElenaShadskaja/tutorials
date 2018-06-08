@@ -17,17 +17,6 @@ Pe1rspectivesPe1rspectives
  **Example:javascript** 
 
 ```javascript
-
-function fancyAlert(arg) {
-  if(arg) {
-    $.facebox({div:'#foo'})
-  }
-}
-function fancyAlert(arg) {
-  if(arg) {
-    $.facebox({div:'#foo'})
-  }
-}
 function fancyAlert(arg) {
   if(arg) {
   60 line
