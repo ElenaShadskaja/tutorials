@@ -79,3 +79,14 @@ multiline docstring."""
 print("Hello, World!")
 ```
 [ACCORDION-END]
+
+[ACCORDION-BEGIN [STEP 14]( shell test code)]
+***14Example:shell code** 
+```shell
+$ chmod a+x name.sh
+$ ./name.sh Hans-Wolfgang Loidl
+My first name is Hans-Wolfgang
+My surname is Loidl
+Total number of arguments is 2
+```
+[ACCORDION-END]
