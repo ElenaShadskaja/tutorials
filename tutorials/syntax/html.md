@@ -43,7 +43,37 @@ primary_tag: tutorial:product/sapHana
 
 [ACCORDION-END]
 
+[ACCORDION-BEGIN [STEP 4](css test code)]
+***4Example:css code** 
+```css
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+p {
+    border-style: solid;
+}
 
+p.none {border-left-style: none;}
+p.dotted {border-left-style: dotted;}
+p.dashed {border-left-style: dashed;}
+p.solid {border-left-style: solid;}
+p.outset {border-left-style: outset;}
+</style>
+</head>
+<body>
+
+<p class="none">No left border.</p>
+<p class="dotted">A dotted left border.</p>
+<p class="inset">An inset left border.</p>
+<p class="outset">An outset left border.</p>
+
+</body>
+</html>
+
+```
+[DONE]
+[ACCORDION-END]
 
 [ACCORDION-BEGIN [STEP 14](cpp test code)]
 ***14Example:shell code** 
