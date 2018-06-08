@@ -5,6 +5,29 @@ tags: [products>sap-hana-cloud-platform, topic>cloud, topic>java]
 primary_tag: tutorial:product/sapHana
 ---
 
+
+
+
+
+[ACCORDION-BEGIN [STEP 45](http test code)]
+**7Example:http code** 
+```http
+@Injectable() 
+class SearchService {
+  apiRoot:string = 'https://itunes.apple.com/search';
+  results:Object[];
+  loading:boolean;
+
+  constructor(private http:Http) { 
+    this.results = [];
+    this.loading = false;
+  }
+
+  search(term:string) {
+  }
+}
+```
+[ACCORDION-END]
  
 [ACCORDION-BEGIN [STEP 0]( now html)]
 
@@ -29,7 +52,7 @@ primary_tag: tutorial:product/sapHana
 
 
 
-[ACCORDION-BEGIN [STEP 14](cpp test code)]
+[ACCORDION-BEGIN [STEP 14](cpp-c++ test code)]
 ***14Example:shell code** 
 ```cpp
   // Initialize the MQQMPROPS structure.  
