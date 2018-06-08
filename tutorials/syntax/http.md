@@ -113,3 +113,57 @@ My surname is Loidl
 Total number of arguments is 2
 ```
 [ACCORDION-END]
+
+[ACCORDION-BEGIN [STEP 14]( shell test code)]
+***Example:unknown code** 
+```basic
+Sub Main()
+
+On Error GoTo Failed
+
+ 
+
+Dim app As Netica.Application
+
+app = New Netica.Application
+
+app.Visible = True
+
+ 
+
+Dim net_file_name As String
+
+net_file_name = System.AppDomain.CurrentDomain.BaseDirectory() & "..\..\..\ChestClinic.dne"
+
+Dim net As Netica.Bnet
+
+net = app.ReadBNet(app.NewStream(net_file_name))
+
+net.Compile()
+
+ 
+Dim TB As Netica.BNode
+
+TB = net.Nodes.Item("Tuberculosis")
+
+Dim belief As Double
+
+belief = TB.GetBelief("present")
+
+MsgBox("The probability of tuberculosis is " & belief)
+
+
+ 
+```
+[ACCORDION-END]
+
+[ACCORDION-BEGIN [STEP 14]( shell test code)]
+***14Example:shell code** 
+```shell
+$ chmod a+x name.sh
+$ ./name.sh Hans-Wolfgang Loidl
+My first name is Hans-Wolfgang
+My surname is Loidl
+Total number of arguments is 2
+```
+[ACCORDION-END]
