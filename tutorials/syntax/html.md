@@ -5,6 +5,22 @@ tags: [products>sap-hana-cloud-platform, topic>cloud, topic>java]
 primary_tag: tutorial:product/sapHana
 ---
 
+ **Example:html code before accordion ** 
+  
+```html
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<h1>This is a Heading</h1>
+<p>This is a paragraph.</p>
+
+</body>
+</html>
+```
  
 [ACCORDION-BEGIN [STEP 0]( now html)]
 
