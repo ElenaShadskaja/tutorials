@@ -20,7 +20,7 @@ In this tutorial you will create a Dynamic Web project, a servlet to respond to 
 
 **Image with *jpg format**
 
-   ![Repositories](Funny-Baby-11.jpg)
+   ![Repositories](baby.jpg)
    
    
    **Image with *png format**
