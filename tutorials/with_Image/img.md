@@ -20,7 +20,7 @@ In this tutorial you will create a Dynamic Web project, a servlet to respond to 
 
 **Image with *jpg format**
 
-   ![Repositories](baby.jpg)
+   ![Repositories](bamby.jpg)
    
    
    **Image with *png format**
@@ -35,7 +35,7 @@ In this tutorial you will create a Dynamic Web project, a servlet to respond to 
    
    **Image with spaces between words (png format)**
 
-   ![Repositories](image.png)
+   ![Repositories](pig.png)
    
    
    **Image with indicating the way. Example: tutorials/images/image.jpg (jpg format)**
