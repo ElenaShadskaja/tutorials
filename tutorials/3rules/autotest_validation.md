@@ -26,7 +26,7 @@ Now that you have set up a Dqqqqestination in the HANA Cloud Platform (HCP) cock
 
 
 
-[ACCORDION-BEGIN [STEP 1] (Exact match rule)] 
+[ACCORDION-BEGIN [STEP 1](Exact match rule)] 
 [VALIDATE_1]
 [ACCORDION-END]
 
