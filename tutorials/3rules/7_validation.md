@@ -1,5 +1,5 @@
 ---
-title: for group 207 validation rules5-19pm
+title: for group 207 validation rules 15/06 15-20
 description: 9 types of rules 
 tags: [tutorial:product/sapHana]
 primary_tag: tutorial:product/mobile
