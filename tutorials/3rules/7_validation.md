@@ -41,8 +41,8 @@ Now that you have set up a Dqqqqestination in the HANA Cloud Platform (HCP) cock
 [ACCORDION-END]
  
  
-[ACCORDION-BEGIN [STEP 4](Regex with id Exact Match)] 
-[VALIDATE_4]
+[ACCORDION-BEGIN [STEP 4](Just done)] 
+[DONE]
 [ACCORDION-END]
  
  
