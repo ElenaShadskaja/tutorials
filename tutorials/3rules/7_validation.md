@@ -12,7 +12,7 @@ primary_tag: tutorial:product/mobile
  - **Tutorials:** This tutorial is part of a series. The previous tutorial is [Set up the Northwind Destination](https://go.sap.com/developer/tutorials/hcp-create-destination.html)
 
 ### Time to Complete
-10 min
+110 min
 
 ## Next Steps
  - This tutorial is part of a series.  The next tutorial is part 4: [Add a list to the current view](https://go.sap.com/developer/tutorials/sapui5-webide-add-list.html)
