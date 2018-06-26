@@ -11,6 +11,8 @@ You can use:
 ***Image by link***
 ![Image](https://photos.app.goo.gl/SMHb64Ku3XWmidRe9)
 
+### Time to Complete
+110 min
 
 ***Text*** (including bold, italic, etc)
 
