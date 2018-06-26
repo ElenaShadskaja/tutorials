@@ -7,6 +7,9 @@ primary_tag: tutorial:product/mobile
 
 >### New tutor
 
+### Time to Complete
+4h 12 min
+
 ## Details
 ### You will learn  
 1. How to use HANA Studio Pe1rspectives
