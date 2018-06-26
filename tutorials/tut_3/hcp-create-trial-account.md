@@ -5,6 +5,9 @@ tags: [tutorial:product/hcp, tutorial:product/mobile, tutorial:interest/gettings
 primary_tag: tutorial:product/hcp
 ---
 
+### Time to Complete
+110 min
+
 >### New tutor
 
 ## Details
