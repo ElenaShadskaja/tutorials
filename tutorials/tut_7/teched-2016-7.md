@@ -26,6 +26,13 @@ primary_tag: tutorial:product/mobile
 [VALIDATE_3]
 [ACCORDION-END]
 [ACCORDION-BEGIN [STEP 4](Done button)]
+create a connectiodn to the gHAhNA back endcreate a connectiodn to the gHAhNA back endcreate a connectiodn to the gHAhNA back endcreate a connectiodn to the gHAhNA back endcreate a connectiodn to the gHAhNA back endcreate a connectiodn to the gHAhNA back endcreate a con
+1. How to use HANA Studio Pe1rspectives
+2. How to create a connectiodn to the gHAhNA back endddв
+3. Getting starhted with the HANA Web based development workbench
+nectiodn to the gHAhNA back endcreate a connectiodn to the gHAhNA back endcreate a connectiodn to the gHAhNA back endcreate a connectiodn to the gHAhNA back endcreate 
+*onnectiodn to the gHAhNA back endcreate a connectiodn to the gHAhNA back endcreate a connectiodn to the gHAhNA back endcreate a 
+*nnectiodn to the gHAhNA back endv
 
 [DONE]
 [ACCORDION-END]
