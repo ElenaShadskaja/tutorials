@@ -1,11 +1,13 @@
 ---
-title: 125 validation form single answers tests  19-04 15-51
+title: 125 validation form single answers tests  1 26/06
 description:tests description
 primary_tag: tutorial>HANA
 tags: [tutorial:product/sapHana, tutorial:product/hana_studio]
 ---
 
-
+### Time to Complete
+1h
+ 
 [ACCORDION-BEGIN [STEP 1]( Extra match rule)] 
    
 [VALIDATE_1]
