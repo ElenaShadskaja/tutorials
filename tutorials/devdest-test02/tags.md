@@ -12,7 +12,9 @@ primary_tag: tutorial:product/mobile
 
 ## Next Steps
  - Select a tutorial from the [Tutorial Navigator](http://go.sap.com/developer/tutorial-navigator.html) or the [Tutorial Catalog](http://go.sap.com/developer/tutorials.html)
-
+ 
+### Time to Complete
+30 min
 
 ## Details
 ### You will learn  
