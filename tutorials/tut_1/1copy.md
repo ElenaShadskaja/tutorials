@@ -50,16 +50,3 @@ How to create a connectiodn to the gHAhNA back endddHow to create a connectiodn 
 
 [DONE]
 [ACCORDION-END]
-
-[ACCORDION-BEGIN [STEP 3](Accordion component which contains Task Lists in Body)]
-**Task Lists*** (Please note, this requires empty line before task list):
-
-  **Example:** 
-     
-- [x] @mentions, #refs, [links](), **formatting**, and ~~tags~~ supported
-- [x] list syntax required (any unordered or ordered list supported)
-- [x] this is a complete item
-- [ ] this is an incomplete item
-
-[DONE]
-[ACCORDION-END]
