@@ -9,6 +9,7 @@ primary_tag: tutorial:product/sapHana
 ***Text*** (including bold, italic, etc)
 tutorial:product/sapHana
   **Example:** 
+  
 ### Time to Complete
 6 min
 
