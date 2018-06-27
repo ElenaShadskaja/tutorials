@@ -1,7 +1,7 @@
 ---
 title: DD Test with accordion 27/06 copy
 description:  updated Create a Destination to allow HANA Cloud Platform 
-tags: [tutorial:product/mobile]
+tags: [tutorial:product/sapHana]
 primary_tag: tutorial:product/sapHana
 ---
 
