@@ -19,7 +19,7 @@ Now that your IoT Services are collecting data and you were able to view it your
 
 
 ### Time to Complete
-**121 Min**.
+121 Min
 
 ---
 
