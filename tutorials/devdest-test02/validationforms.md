@@ -6,6 +6,10 @@ tags: [tutorial:product/sapHana, tutorial:product/hana_studio]
 qrcode: true
 ---
 
+
+### Time to Complete
+55 min
+
 [ACCORDION-BEGIN [STEP 1]( Extra match rule)] 
    
 [VALIDATE_1]
