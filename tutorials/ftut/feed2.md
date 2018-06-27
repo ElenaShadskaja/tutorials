@@ -21,6 +21,7 @@ Now that your IoT Services are collecting data and you were able to view it your
 ### Time to Complete
 121 Min
 
+
 ---
 
 1. To be on the safe side go ahead and stop your `iotmms` Java application.
