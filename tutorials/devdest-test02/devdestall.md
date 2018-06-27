@@ -5,6 +5,8 @@ tags: [products>sap-hana, products>sap-hana-cloud-platform, tutorial>beginner]
 primary_tag: tutorial:product/sapHana
 ---
 
+### Time to Complete
+6 min
 
 You can use:
 
