@@ -1,7 +1,7 @@
 ---
 title: feeds 2 with advanced
 description: Part 10 of 10, Now connect your IoT Services to an SAP HANA XS shared instance and show the data using SAP HANA XS
-tags: [products>sap-hana, products>sap-hana-cloud-platform, topic>big-data, topic>internet-of-things, tutorial>Advanced ]
+tags: [products>sap-hana, products>technology-platform, topic>big-data, topic>internet-of-things, tutorial>Advanced ]
 primary_tag: tutorial:product/mobile
 ---
 
