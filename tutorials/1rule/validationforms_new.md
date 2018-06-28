@@ -8,13 +8,13 @@ tags: [tutorial:product/sapHana, tutorial:product/hana_studio]
 ### Time to Complete
 15 min
  
-[ACCORDION-BEGIN [STEP 1]( Extra match rule)] 
+[ACCORDION-BEGIN [STEP 1](Extra match rule)] 
    
 [VALIDATE_1]
  
  [ACCORDION-END]
  
- [ACCORDION-BEGIN [STEP 2]( Regex Sub-string)] 
+ [ACCORDION-BEGIN [STEP 2](Regex Sub-string)] 
 [VALIDATE_2]
 
  [ACCORDION-END]
