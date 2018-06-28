@@ -6,7 +6,7 @@ tags: [tutorial:product/sapHana, tutorial:product/hana_studio]
 ---
 
 ### Time to Complete
-1h
+15 min
  
 [ACCORDION-BEGIN [STEP 1]( Extra match rule)] 
    
