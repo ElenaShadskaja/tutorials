@@ -19,7 +19,7 @@ Pe1rspectivesPe1rspective Details
 Pe1rspectives
 
 
-[ACCORDION-BEGIN [STEP 8](multi-choice 1/3)] 
+[ACCORDION-BEGIN [STEP 8](multi-choice 1/4)] 
   
  [VALIDATE_8] 
  
