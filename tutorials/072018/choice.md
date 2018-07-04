@@ -30,7 +30,7 @@ Pe1rspectives
 
 [ACCORDION-BEGIN [STEP 10](multi-choice #2-4)] 
   
- [VALIDATE_10] 
+ [VALIDATE_9] 
  
 [ACCORDION-END]
 
@@ -44,7 +44,7 @@ Pe1rspectives
 
 [ACCORDION-BEGIN [STEP 9](single-choice 1)] 
   
- [VALIDATE_9] 
+ [VALIDATE_12] 
  
 [ACCORDION-END]
 
