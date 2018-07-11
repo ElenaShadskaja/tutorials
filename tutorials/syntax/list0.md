@@ -1,7 +1,7 @@
 ---
 title: 07/06 code syntax all test code
 description: examples code
-tags: [products>sap-hana-cloud-platform, topic>cloud, topic>java]
+tags: [products>sap-hana-cloud-platform, topic>cloud, topic>java, topic>cloud, experience>Advanced]
 primary_tag: tutorial:product/sapHana
 qrcode=true
 ---
