@@ -7,7 +7,7 @@ qrcode=true
 ---
 
 ### Time to Complete
-111 min
+2 hr.
 
  
   **Example:without code** 
