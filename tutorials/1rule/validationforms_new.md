@@ -2,7 +2,7 @@
 title: 125 validation form single answers tests  1 26/06
 description:tests description
 primary_tag: tutorial>HANA
-tags: [tutorial:product/sapHana, tutorial:product/hana_studio]
+tags: [tutorial:experience/Beginner, tutorial:product/sapHana, tutorial:product/hana_studio]
 ---
 
 ### Time to Complete
