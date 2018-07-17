@@ -105,7 +105,8 @@ function fancyAlert(arg) { function fancyAlert(arg) {function fancyAlert(arg) {f
 
 NOW (**90**) in our HTML
 
- [VALIDATE_6] 
+
+[VALIDATE_6] 
  
 [ACCORDION-END]
 
