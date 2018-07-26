@@ -1,7 +1,7 @@
 ---
 title: teched 2018 3
 description: new 06/07 Create a Destination to allow HANA Cloud Platform to nbvread/write data for old
-tags: [tutorial:product/mobile]
+tags: [tutorial:product/mobile,tutorial>advanced]
 primary_tag: tutorial:product/mobile
 ---
 
