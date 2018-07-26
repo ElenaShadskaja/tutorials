@@ -8,7 +8,7 @@ primary_tag: tutorial:product/mobile
 >### New tutor
 
 ### Time to Complete
-255 min
+25 min
 
 ## Details
 ### You will learn  
