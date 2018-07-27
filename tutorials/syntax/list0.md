@@ -1,5 +1,5 @@
 ---
-title: 12/07  syntax all test code/
+title: 27/07  syntax all test code/
 description: examples code
 tags: [products>sap-hana-cloud-platform, products>cloud, products>java, topic>cloud, experience>advanced]
 primary_tag: tutorial:product/sapHana
