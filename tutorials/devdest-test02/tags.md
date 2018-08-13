@@ -10,8 +10,6 @@ primary_tag: tutorial:product/mobile
  - **Proficiency:** Beginner
  - **Tutorials:** [Internet of Things (IoT) Viewing your Tessel data from IoT Services](http://go.sap.com/developer/tutorials/iot-part9-hcp-services-viewdata.html)
 
-## Next Steps
- - Select a tutorial from the [Tutorial Navigator](http://go.sap.com/developer/tutorial-navigator.html) or the [Tutorial Catalog](http://go.sap.com/developer/tutorials.html)
  
 ### Time to Complete
 40 min
