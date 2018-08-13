@@ -1,5 +1,5 @@
 ---
-title: Resgression Tutorial with all components 0808 1800
+title: Resgression Tutorial with all components 1308 11-00
 description: example
 tags: [products>sap-hana, products>sap-hana-cloud-platform, tutorial>beginner]
 primary_tag: tutorial:product/sapHana
