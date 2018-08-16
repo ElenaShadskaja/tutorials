@@ -1,8 +1,8 @@
 ---
-title: Validate rules test 25/06/2018  
+title: Validate rules test 16/08/2018  
 description:test test description to test tests description to test tests description to test 8tests descriptest description to test tests description to test tests description to test 8tests descripdescription to test tests description to test tests description to test 8tests description to test tests description to test tests lorem
 primary_tag: tutorial>HANA
-tags: [tutorial:product/sapHana, tutorial:product/hana_studio]
+tags: [tutorial:product/sapHana, tutorial>advanced, tutorial:product/hana_studio]
 qrcode: true
 ---
 
@@ -12,7 +12,7 @@ qrcode: true
  - **Tutorials:** This tutorial is part of a series. The previous tutorial is [Set up the Northwind Destination](https://go.sap.com/developer/tutorials/hcp-create-destination.html)
 
 ### Time to Complete
-115 min
+16 min
 
 ## Details
 Pe1rspectivesPe1rspective Details
