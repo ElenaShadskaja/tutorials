@@ -1,5 +1,5 @@
 ---
-title: Tutorial for tag testing 1308 12-37
+title: Tutorial for tag testing 1608 18-00
 description: Part 10 of 10, Now connect your IoT Services to an SAP HANA XS shared instance and show the data using SAP HANA XS
 tags: [ tutorial>l:product/mobile, tutorial>beginner]
 primary_tag: tutorial:product/mobile
