@@ -170,6 +170,5 @@ Now that your IoT Services are collecting data an1d you were able to view it you
 
 	![new page](https://raw.githubusercontent.com/SAPDocuments/Tutorials/master/tutorials/iot-part10-hcp-services-hanaxs/8.png)
 
-
 ## Next Steps
  - 1 Select a tutorial from the [Tutorial Navigator](http://go.sap.com/developer/tutorial-navigator.html) or the [Tutorial Catalog](http://go.sap.com/developer/tutorials.html)
