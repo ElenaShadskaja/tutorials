@@ -129,7 +129,7 @@ and
 [ACCORDION-BEGIN [STEP 2](Accordion component which contains link(s) in Body)]
 Select a tutorial from the [Tutorial Navigator](http://go.sap.com/developer/tutorial-navigator.html) or the [Tutorial Catalog](http://go.sap.com/developer/tutorials.html)
 
-[EMBEDDED-VIDEO [](/content/dam/site/sapcom/multimedia/2017/12/746085f5-e27c-0010-82c7-eda71af511fa.mp4)]
+
 
 [DONE]
 [ACCORDION-END]
@@ -139,7 +139,7 @@ Select a tutorial from the [Tutorial Navigator](http://go.sap.com/developer/tuto
 
   **Example:** 
 
-[EMBEDDED-VIDEO [](/content/dam/site/sapcom/multimedia/2017/12/746085f5-e27c-0010-82c7-eda71af511fa.mp4)]
+
 
 First Header | Second Header
 ------------ | -------------
@@ -155,7 +155,7 @@ and
 | col 2 is      | centered        |   $12 |
 | zebra stripes | are neat        |    $1 |
 
-[EMBEDDED-VIDEO [](/content/dam/site/sapcom/multimedia/2017/12/746085f5-e27c-0010-82c7-eda71af511fa.mp4)]
+
 
 [DONE]
 [ACCORDION-END]
@@ -169,8 +169,6 @@ video removed
 [ACCORDION-BEGIN [STEP 5](Accordion component which contains Text in Body)]
 We are currently in open beta for the new SAP community. Here's your opportunity to test out the new features and give us your feedback. Not in the mood to try out the new community just yet? Then continue on to the SAP Community Network (SCN) where you currently collaborate with other members.
 
-[EMBEDDED-VIDEO [](/content/dam/site/sapcom/multimedia/2017/12/746085f5-e27c-0010-82c7-eda71af511fa.mp4)]
-
 We are currently in open beta for the new SAP community. Here's your opportunity to test out the new features and give us your feedback. Not in the mood to try out the new community just yet? Then continue on to the SAP Community Network (SCN) where you currently collaborate with other members.
 
 [DONE]
@@ -181,8 +179,6 @@ We are currently in open beta for the new SAP community. Here's your opportunity
 
   **Example:** 
 
-
-[EMBEDDED-VIDEO [](/content/dam/site/sapcom/multimedia/2017/12/746085f5-e27c-0010-82c7-eda71af511fa.mp4)]
 ###### This is an h6 header
 
 [DONE]
@@ -282,8 +278,7 @@ In the words of Abraham Lincoln:
 [ACCORDION-END]
 
 [ACCORDION-BEGIN [STEP 12](Accordion component which contains code block and no code block in Body)]
-***Code blocks:***
-
+***Code blocks w/o:***
 ```
  quit;
  !@#$%^&*&*(*(()_++|"}?><>??*&^%#!~~~~@33123-090=|"]?>{}|\\
