@@ -1,13 +1,12 @@
 ---
-title:TEST validation form 07/07
+title:TEST validation form sep 2018
 description:autotests description
 primary_tag: tutorial>HANA
-tags: [tutorial:experience/teste, tutorial:product/mobile]
+tags: [tutorial>intermediate,products>sap-hana, products>sap-hana-cloud-platform, ]
 qrcode: true
+time: 25
 ---
 
-### Time to Complete
-255 min
 
 [ACCORDION-BEGIN [STEP 1]( Extra match rule)] 
    
