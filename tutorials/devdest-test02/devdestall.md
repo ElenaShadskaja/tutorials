@@ -161,10 +161,7 @@ and
 [ACCORDION-END]
 
 [ACCORDION-BEGIN [STEP 4](Accordion component which contains markup code in Body)]
-
-[EMBEDDED-VIDEO [](/content/dam/site/sapcom/multimedia/2017/12/746085f5-e27c-0010-82c7-eda71af511fa.mp4)]
-
-[EMBEDDED-VIDEO [](/content/dam/site/sapcom/multimedia/2017/12/746085f5-e27c-0010-82c7-eda71af511fa.mp4)]
+video removed
 
 [DONE]
 [ACCORDION-END]
@@ -184,11 +181,6 @@ We are currently in open beta for the new SAP community. Here's your opportunity
 
   **Example:** 
 
-[EMBEDDED-VIDEO [](/content/dam/site/sapcom/multimedia/2017/12/746085f5-e27c-0010-82c7-eda71af511fa.mp4)]
-## This is an h2 header
-
-[EMBEDDED-VIDEO [](/content/dam/site/sapcom/multimedia/2017/12/746085f5-e27c-0010-82c7-eda71af511fa.mp4)]
-### This is an h3 header
 
 [EMBEDDED-VIDEO [](/content/dam/site/sapcom/multimedia/2017/12/746085f5-e27c-0010-82c7-eda71af511fa.mp4)]
 ###### This is an h6 header
@@ -203,14 +195,14 @@ We are currently in open beta for the new SAP community. Here's your opportunity
   
 Sometimes you want numbered lists:
 
-[EMBEDDED-VIDEO [](/content/dam/site/sapcom/multimedia/2017/12/746085f5-e27c-0010-82c7-eda71af511fa.mp4)]
+
 1. One
 2. Two 
 3. Three
 
 Sometimes you want bullet points:
 
-[EMBEDDED-VIDEO [](/content/dam/site/sapcom/multimedia/2017/12/746085f5-e27c-0010-82c7-eda71af511fa.mp4)]
+
 * Start a line with a star
 * Profit!
 
@@ -220,7 +212,7 @@ Sometimes you want bullet points:
 [ACCORDION-BEGIN [STEP 8](Accordion component which contains nested lists in Body)]
 You can create nested lists: 
 
-[EMBEDDED-VIDEO [](/content/dam/site/sapcom/multimedia/2017/12/746085f5-e27c-0010-82c7-eda71af511fa.mp4)]
+
 * item1
     * one_one
     * two
@@ -234,7 +226,7 @@ You can create nested lists:
   **Example:** 
 In the words of Abraham Lincoln:
 
-[EMBEDDED-VIDEO [](/content/dam/site/sapcom/multimedia/2017/12/746085f5-e27c-0010-82c7-eda71af511fa.mp4)]
+
 > Pardon my French
 
 [DONE]
@@ -243,7 +235,6 @@ In the words of Abraham Lincoln:
 [ACCORDION-BEGIN [STEP 10](Accordion component which contains types of messages (Note, Caution and Warning) in Body)]
 ***There are three different types of messages: Note, Caution and Warning.***
 
-[EMBEDDED-VIDEO [](/content/dam/site/sapcom/multimedia/2017/12/746085f5-e27c-0010-82c7-eda71af511fa.mp4)]
 >### Warning
 >jhkjhkjhkjhkj
 >>### Warning
@@ -272,7 +263,7 @@ In the words of Abraham Lincoln:
 
   **Example:** 
   
-  [EMBEDDED-VIDEO [](/content/dam/site/sapcom/multimedia/2017/12/746085f5-e27c-0010-82c7-eda71af511fa.mp4)]  
+    
 - [x] @mentions, #refs, [links](), **formatting**, and ~~tags~~ supported
 - [x] list syntax required (any unordered or ordered list supported)
 - [x] this is a complete item
@@ -284,9 +275,8 @@ In the words of Abraham Lincoln:
 [ACCORDION-BEGIN [STEP 12](Accordion component which contains code block and no code block in Body)]
 ***Code blocks:***
 
-[EMBEDDED-VIDEO [](/content/dam/site/sapcom/multimedia/2017/12/746085f5-e27c-0010-82c7-eda71af511fa.mp4)]
 
-```markup
+``` buba-test
  quit;
  !@#$%^&*&*(*(()_++|"}?><>??*&^%#!~~~~@33123-090=|"]?>{}|\\
   require 'redcarpet'
