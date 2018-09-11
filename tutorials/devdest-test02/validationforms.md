@@ -1,6 +1,6 @@
 ---
 title:TEST validation form sep 2018
-description: 10+steps description
+description: 15 steps description
 primary_tag: tutorial>HANA
 tags: [tutorial>intermediate,products>sap-hana, products>sap-hana-cloud-platform, ]
 qrcode: true
