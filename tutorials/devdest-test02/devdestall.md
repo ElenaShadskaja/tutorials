@@ -1,10 +1,10 @@
 ---
 title: Tutorial with some components
-description: sep 2018 example
+description: sep 2018 example 12/09
 tags: [products>sap-hana, products>sap-hana-cloud-platform, tutorial>beginner]
 primary_tag: tutorial:product/sapHana
 qrcode: true
-time: 6 h
+time: 7h
 ---
 
 
