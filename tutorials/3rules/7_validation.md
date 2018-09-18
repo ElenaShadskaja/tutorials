@@ -1,8 +1,9 @@
 ---
 title: for group 207 validation rules 26/06  18-22
 description: 9 types of rules 
-tags: [tutorial:product/sapHana]
+tags: [tutorial:product/sapHana, tutorial>advanced]
 primary_tag: tutorial:product/mobile
+time: 55
 ---
 
 
@@ -10,9 +11,6 @@ primary_tag: tutorial:product/mobile
  - **Proficiency:** Beginner 
  - **Web IDE** If you do not have the Web IDE open, follow these steps: [Enable and open the HANA Cloud Platform Web IDE](https://go.sap.com/developer/tutorials/sapui5-webide-open-webide.html)
  - **Tutorials:** This tutorial is part of a series. The previous tutorial is [Set up the Northwind Destination](https://go.sap.com/developer/tutorials/hcp-create-destination.html)
-
-### Time to Complete
-110 min
 
 ## Next Steps
  - This tutorial is part of a series.  The next tutorial is part 4: [Add a list to the current view](https://go.sap.com/developer/tutorials/sapui5-webide-add-list.html)
