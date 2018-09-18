@@ -1,9 +1,9 @@
 ---
 title: 7 validation rules 09
 description: 9 types of rules 
-tags: [tutorial:product/sapHana, tutorial>advanced]
+tags: [tutorial:product/sapHana, tutorial:product/mobile, tutorial>advanced]
 primary_tag: tutorial:product/mobile
-time: 55
+time: 45
 ---
 
 
