@@ -1,6 +1,6 @@
 ---
 title: 7 rules 09
-description: 9 types of rules 
+description: test types of rules topaz
 tags: [tutorial:product/sapHana, tutorial:product/mobile, tutorial>advanced]
 primary_tag: tutorial:product/mobile
 time: 45
