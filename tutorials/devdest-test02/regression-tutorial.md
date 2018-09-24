@@ -1,12 +1,11 @@
 ---
-title: Resgression Tutorial with all components 1708 11-50
+title: Resgression Tutorial with all components 2409
 description: example time 88
 tags: [products>sap-hana, products>sap-hana-cloud-platform, tutorial>beginner]
 primary_tag: tutorial:product/sapHana
+time: 280
 ---
 
-### Time
-88 min
 
 You can use:
 
