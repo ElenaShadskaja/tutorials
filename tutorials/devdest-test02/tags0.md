@@ -1,8 +1,9 @@
 ---
-title: Tutorial for tag testing 2208 17:07
+title: Tutorial for tag testing 2409 time 140
 description: Part 10 of 10, Now connect your IoT Services to an SAP HANA XS shared instance and show the data using SAP HANA XS
 tags: [ tutorial>l:product/mobile, tutorial>beginner]
 primary_tag: tutorial:product/mobile
+time: 140
 
 ---
 
@@ -11,8 +12,6 @@ primary_tag: tutorial:product/mobile
  - **Tutorials:** [Internet of Things (IoT) Viewing your Tessel data from IoT Services](http://go.sap.com/developer/tutorials/iot-part9-hcp-services-viewdata.html)
 
  
-### Time to Complete
-40 min
 
 ## Details
 ### You will learn  
