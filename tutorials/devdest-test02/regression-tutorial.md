@@ -3,7 +3,7 @@ title: Resgression Tutorial with all components 2409
 description: example time 88
 tags: [products>sap-hana, products>sap-hana-cloud-platform, tutorial>beginner]
 primary_tag: tutorial:product/sapHana
-time: 280
+time: 142
 ---
 
 
