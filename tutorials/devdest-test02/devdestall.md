@@ -1,6 +1,6 @@
 ---
 title: Tutorial With Some Components SAP-test !@#$%&^*()
-description: 2018 example 05/10 15-12
+description: 2018 example 15/10 1
 tags: [products>sap-hana, products>sap-hana-cloud-platform, tutorial>beginner]
 primary_tag: tutorial:product/sapHana
 qrcode: true
@@ -265,7 +265,7 @@ In the words of Abraham Lincoln:
 - [x] this is a complete item
 - [ ] this is an incomplete item
 
-``` buba-test
+``` SqL
  quit;
  !@#$%^&*&*(*(()_++|"}?><>??*&^%#!~~~~@33123-090=|"]?>{}|\\
   require 'redcarpet'
