@@ -1,6 +1,6 @@
 ---
 title: Tutorial With Some Components SAP-test !@#$%&^*()
-description: 2018 example 22/10 11
+description: 2018 example 24/10 11
 tags: [products>sap-hana, products>sap-hana-cloud-platform, tutorial>beginner]
 primary_tag: tutorial:product/sapHana
 qrcode: true
