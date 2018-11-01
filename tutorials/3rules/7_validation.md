@@ -3,7 +3,7 @@ title: 7 rules 09
 description: test types of rules topaz 0111 pm
 tags: [tutorial:product/sapHana, tutorial:product/mobile, tutorial>advanced]
 primary_tag: tutorial:product/mobile
-time: 45
+time: 22
 ---
 
 ## Prerequisites  
@@ -54,6 +54,3 @@ There are advances being made in science and technology everyday, and a good exa
 [ACCORDION-END]
 
 
-[ACCORDION-BEGIN [STEP 7](http-status-check 200)] 
-[VALIDATE_7] 
-[ACCORDION-END]
