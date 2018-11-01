@@ -1,6 +1,6 @@
 ---
 title: 7 rules 09
-description: test types of rules topaz 9/21 5-55 pm
+description: test types of rules topaz 0111 pm
 tags: [tutorial:product/sapHana, tutorial:product/mobile, tutorial>advanced]
 primary_tag: tutorial:product/mobile
 time: 45
