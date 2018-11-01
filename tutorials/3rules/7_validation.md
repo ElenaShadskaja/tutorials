@@ -53,4 +53,8 @@ There are advances being made in science and technology everyday, and a good exa
 There are advances being made in science and technology everyday, and a good example of this is the LCD monitor. LCD monitors have several benefits over the old chunky computer monitors that most users are familiar with?
 [ACCORDION-END]
 
+[ACCORDION-BEGIN [STEP 7](http-status-check 200)] 
+[VALIDATE_7] 
+[ACCORDION-END]
+
 
