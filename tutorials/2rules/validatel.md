@@ -1,5 +1,5 @@
 ---
-title: Validate rules test 28/06/2018  
+title: Validate rules test  1311 2018  
 description:test test description  to test tests description to test tests description to test 8tests description to test tests description to test tests lorem
 primary_tag: tutorial>HANA
 tags: [tutorial>advanced, tutorial:product/sapHana, tutorial:product/hana_studio]
