@@ -2,8 +2,8 @@
 title: Validate rules test 28/06/2018  
 description:test test description  to test tests description to test tests description to test 8tests description to test tests description to test tests lorem
 primary_tag: tutorial>HANA
-tags: [tutorial:product/sapHana, tutorial:product/hana_studio]
-qrcode: true
+tags: [tutorial>advanced, tutorial:product/sapHana, tutorial:product/hana_studio]
+time: 111
 ---
 
 ## Prerequisites  
@@ -11,8 +11,6 @@ qrcode: true
  - **Web IDE** If you do not have the Web IDE open, follow these steps: [Enable and open the HANA Cloud Platform Web IDE](https://go.sap.com/developer/tutorials/sapui5-webide-open-webide.html)
  - **Tutorials:** This tutorial is part of a series. The previous tutorial is [Set up the Northwind Destination](https://go.sap.com/developer/tutorials/hcp-create-destination.html)
 
-### Time to Complete
-115 min
 
 ## Details
 Pe1r tutorial pe ctivesPe  tutorial 1rspective Details
