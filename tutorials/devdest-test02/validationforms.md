@@ -1,6 +1,6 @@
 ---
-title:TEST validation form Oct 2018 SAP test~!@#$%^&*()_+
-description: 15 steps description
+title:TEST validation form <tr>Oct 2018 SAP</tr> test~!@#$%^&*()_+
+description: 15 steps description <tr>Oct 2018 SAP</tr> <b>Oct 2018 SAP</b>
 primary_tag: tutorial>HANA
 tags: [tutorial>intermediate,products>sap-hana, products>sap-hana-cloud-platform, ]
 qrcode: true
@@ -8,7 +8,7 @@ time: 25
 ---
 
 
-[ACCORDION-BEGIN [STEP 1]( Extra match rule)] 
+[ACCORDION-BEGIN [STEP 1]( <tr>Oct 2018 SAP</tr> <b>Oct 2018 SAP</b> Extra match rule)] 
    
 [VALIDATE_1]
  
