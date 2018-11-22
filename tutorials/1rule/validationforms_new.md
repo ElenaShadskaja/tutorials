@@ -3,11 +3,9 @@ title: 125 validation form single answers tests blue 12/07
 description:tests description
 primary_tag: tutorial>HANA
 tags: [tutorial:experience/Beginner, tutorial:product/sapHana, tutorial:product/hana_studio]
+time 27
 ---
 
-### Time to Complete
-15 min
- 
 [ACCORDION-BEGIN [STEP 1](Extra match rule)] 
    
 [VALIDATE_1]
