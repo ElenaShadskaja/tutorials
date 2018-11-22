@@ -1,8 +1,8 @@
 ---
-title: 125 validation form single answers tests blue 22/11 12-19
+title: 125 validation form single answers tests blue 22/11 
 description:tests description
 primary_tag: tutorial>HANA
-tags: [tutorial:experience/Beginner, tutorial:product/sapHana, tutorial:product/hana_studio]
+tags: [tutorial:experience/beginner, tutorial:product/sapHana, tutorial:product/hana_studio]
 time 27
 ---
 
