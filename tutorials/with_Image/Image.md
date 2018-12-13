@@ -1,8 +1,9 @@
 ---
-title: Tutorial with Images 1106 2-23pm
+title: Tutorial with Images 1214 2-23pm
 description: Develop and 11deploy your first Java application using the SAP HANA Cloud Platform Tools for Java
-tags: [  tutorial>beginner, topic>cloud, topic>java, products>sap-hana-cloud-platform ]
+tags: [tutorial>beginner, topic>cloud, topic>java, products>sap-hana-cloud-platform ]
 primary_tag: tutorial:product/sapHana
+time=23
 ---
 ## Prerequisites  
  - **Proficiency:** Beginner
@@ -20,7 +21,7 @@ In this tutorial you will create a Dynamic Web project, a servlet to respond to 
 
 **Image with *jpg format**
 
-   ![Repositories](Funny-Baby-11.jpg)
+   ![Repositories](cat0.jpg)
    
    
    **Image with *png format**
