@@ -38,3 +38,6 @@ Restart-Computer -Force -ComputerName SERVER1
 
 
 ### <a id="big_image"></a>Big Image
+
+![Repositories](cat0.jpg)
+
