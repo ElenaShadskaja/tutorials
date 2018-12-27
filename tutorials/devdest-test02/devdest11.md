@@ -121,14 +121,7 @@ test2
 | col 3 is          | some wordy text aaaaaaaaaaaaaaaaaaa    | $1600             |
 | col 2 is          | centered            |$12                |
 | zebra stripes  bbbbbbbbbbbb  | are neat            |$100000000000000000000000                 |
-
-test3
-
-
-
-| :---------------- |:-------------------:| -----------------:|
 | col 3 is          | some wordy text     | $1600             |
 | col 2 is          | centered            |$12                |
 | zebra stripes     | are neat            |$1                 |
-
 
