@@ -1,0 +1,11 @@
+[VALIDATE_1]
+###Rule
+exact-match
+
+###Question
+What is destination name used in this tutorial?
+
+###Match
+SAPCPMobileServices
+
+[VALIDATE_1]
