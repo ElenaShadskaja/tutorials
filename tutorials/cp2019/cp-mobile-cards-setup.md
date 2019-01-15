@@ -1,5 +1,5 @@
 ---
-title: Setup SAP Mobile Cards test
+title: Setup SAP Mobile Cards test015/01
 description: Activate SAP Cloud Platform Mobile Services and connect the SAP Mobile Cards Application to your trial account.
 auto_validation: true
 primary_tag: products>sap-mobile-cards
