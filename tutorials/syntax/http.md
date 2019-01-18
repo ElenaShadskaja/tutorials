@@ -1,8 +1,9 @@
 ---
 title: code syntax httpcodes 2018 devms-167
 description: devms 167 stor
-tags: [products>sap-hana-cloud-platform, topic>cloud, topic>java]
+tags: [products>sap-hana-cloud-platform, experience>advanced, topic>java]
 primary_tag: tutorial:product/sapHana
+time: 12
 ---
 
 
